@@ -1,0 +1,4 @@
+case_id,length,n_grid,source_amplitude,notes
+baseline_poisson,1.0,101,1.0,one-dimensional Poisson equation with sine source
+finer_poisson,1.0,201,1.0,finer grid Poisson equation
+strong_source,1.0,101,2.0,stronger source amplitude

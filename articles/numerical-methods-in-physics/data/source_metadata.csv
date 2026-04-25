@@ -1,0 +1,9 @@
+source,organization,primary_role,url
+MIT Essential Numerical Methods,MIT OpenCourseWare,numerical methods lecture notes and textbook-linked course materials,https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/pages/lecture-notes/
+MIT Numerical Methods for PDEs 2009,MIT OpenCourseWare,graduate course on physically arising PDE methods,https://ocw.mit.edu/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/
+MIT Numerical Methods for PDEs 2003,MIT OpenCourseWare,lecture notes on finite difference finite volume and PDE methods,https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/lecture-notes/
+Stanford PHYSICS 113,Stanford University,computational physics course across mechanics astrophysics electromagnetism quantum mechanics and statistical mechanics,https://bulletin.stanford.edu/courses/2002611
+SciPy solve_ivp,SciPy Developers,official ODE initial value problem solver documentation,https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html
+SciPy Sparse Linear Algebra,SciPy Developers,official sparse linear algebra documentation,https://docs.scipy.org/doc/scipy/reference/sparse.linalg.html
+NIST IR 8298,NIST,verification validation and uncertainty quantification procedures in CFD,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8298.pdf
+NIST Measurement Uncertainty,NIST,measurement uncertainty resources and uncertainty machine,https://physics.nist.gov/cuu/Uncertainty/

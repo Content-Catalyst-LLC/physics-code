@@ -1,0 +1,4 @@
+case_id,target_x,dx_power_min,dx_power_max,notes
+sin_derivative_standard,1.0,-2,-20,central difference derivative of sin(x)
+sin_derivative_near_zero,0.1,-2,-20,central difference derivative near zero
+cos_derivative_standard,1.0,-2,-20,central difference derivative of cos(x)

@@ -1,0 +1,5 @@
+case_id,lambda_value,y0,t_final,time_step,notes
+decay_baseline,-1.0,1.0,5.0,0.1,exponential decay y'=lambda y
+decay_smaller_step,-1.0,1.0,5.0,0.025,smaller step exponential decay
+fast_decay,-5.0,1.0,2.0,0.02,faster exponential decay
+growth_case,0.5,1.0,4.0,0.05,exponential growth test case

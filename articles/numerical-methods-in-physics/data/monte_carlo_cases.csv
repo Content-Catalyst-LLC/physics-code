@@ -1,0 +1,5 @@
+case_id,n_samples,seed,notes
+pi_1k,1000,42,Monte Carlo pi estimate with 1000 samples
+pi_10k,10000,42,Monte Carlo pi estimate with 10000 samples
+pi_100k,100000,42,Monte Carlo pi estimate with 100000 samples
+pi_1m,1000000,42,Monte Carlo pi estimate with 1000000 samples

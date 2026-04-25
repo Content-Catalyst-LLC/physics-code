@@ -1,0 +1,4 @@
+case_id,length,n_grid,n_eigenvalues,notes
+infinite_well_100,1.0,100,5,finite difference infinite square well scaffold
+infinite_well_200,1.0,200,5,finer grid infinite square well scaffold
+longer_well,2.0,200,5,longer domain infinite square well scaffold

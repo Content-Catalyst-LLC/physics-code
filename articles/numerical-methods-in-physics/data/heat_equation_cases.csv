@@ -1,0 +1,6 @@
+case_id,diffusion_coefficient,length,n_grid,time_step,n_steps,notes
+stable_case,1.0,1.0,101,0.00004,2500,stable explicit FTCS heat-equation case
+borderline_case,1.0,1.0,101,0.00005,2500,borderline stability case
+unstable_case,1.0,1.0,101,0.00008,400,unstable explicit FTCS heat-equation case
+coarse_grid_stable,1.0,1.0,51,0.00010,1000,stable coarse grid case
+low_diffusion,0.25,1.0,101,0.00008,2500,lower diffusion coefficient case
