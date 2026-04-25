@@ -1,0 +1,6 @@
+parameter,value,unit,notes
+H0,70,km/s/Mpc,representative educational value
+T0,2.7255,K,present CMB temperature approximate
+Omega_m,0.315,dimensionless,sample matter density parameter
+Omega_r,0.00009,dimensionless,sample radiation density parameter
+Omega_lambda,0.685,dimensionless,sample dark energy density parameter
