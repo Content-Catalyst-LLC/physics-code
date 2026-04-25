@@ -1,0 +1,4 @@
+case_id,lattice_size,coupling_j,temperature_min,temperature_max,n_temperatures,n_thermalization_sweeps,n_measurement_sweeps,random_seed,notes
+article_demo,32,1.0,1.8,3.2,15,500,1000,42,article body demonstration
+small_fast,16,1.0,1.8,3.2,15,300,600,101,fast test case
+larger_demo,48,1.0,1.9,2.8,10,800,1200,202,larger finite-size demonstration

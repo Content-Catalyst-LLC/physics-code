@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+landau_free_energy,mean-field symmetry breaking,m,neglects fluctuations
+ising_2d_monte_carlo,lattice critical behavior,m and energy,finite size and autocorrelation effects
+binder_cumulant,critical temperature estimation,U4,requires multiple system sizes
+finite_size_scaling,critical exponent estimation,beta_over_nu and gamma_over_nu,requires high-quality data collapse
+correlation_function,correlation-length diagnostics,G(r),noisy in small simulations
+rg_toy_flow,scale-transformation intuition,u_i,not full field-theoretic RG
+sql_metadata,reproducibility,models and sources,requires disciplined updates

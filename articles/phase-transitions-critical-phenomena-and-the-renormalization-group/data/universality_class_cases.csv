@@ -1,0 +1,7 @@
+case_id,order_parameter_symmetry,dimension,interaction_range,example_systems,notes
+ising_2d,Z2,2,short range,uniaxial magnets and lattice gases,two-dimensional scalar order parameter with spin-flip symmetry
+ising_3d,Z2,3,short range,liquid-gas critical point and uniaxial magnets,three-dimensional scalar universality
+xy_3d,O2,3,short range,superfluid helium and planar magnets,two-component order parameter
+heisenberg_3d,O3,3,short range,isotropic ferromagnets,three-component order parameter
+mean_field,varies,above upper critical dimension,effectively long range,high-dimensional or long-range systems,fluctuations suppressed
+percolation,connectivity,varies,geometric,porous media and network connectivity,geometric criticality rather than thermal magnetism

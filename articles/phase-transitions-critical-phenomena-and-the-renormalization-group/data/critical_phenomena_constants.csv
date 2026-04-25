@@ -1,0 +1,9 @@
+constant_name,value,unit,notes
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+ising_2d_critical_temperature_J_over_kB,2.269185314,dimensionless,exact square-lattice 2D Ising critical temperature for J/kB units and h=0
+mean_field_beta,0.5,dimensionless,Landau mean-field order-parameter exponent
+mean_field_gamma,1.0,dimensionless,Landau mean-field susceptibility exponent
+mean_field_nu,0.5,dimensionless,mean-field correlation-length exponent
+ising_2d_beta,0.125,dimensionless,exact 2D Ising order-parameter exponent
+ising_2d_gamma,1.75,dimensionless,exact 2D Ising susceptibility exponent
+ising_2d_nu,1.0,dimensionless,exact 2D Ising correlation-length exponent

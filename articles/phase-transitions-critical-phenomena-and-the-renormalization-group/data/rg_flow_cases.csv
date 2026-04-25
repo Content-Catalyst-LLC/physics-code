@@ -1,0 +1,5 @@
+case_id,u_initial,y_exponent,scale_factor,n_steps,notes
+relevant_temperature,0.01,1.0,2.0,12,relevant perturbation grows under coarse graining
+irrelevant_microscopic,0.5,-1.0,2.0,12,irrelevant perturbation shrinks under coarse graining
+marginal_tree_level,0.1,0.0,2.0,12,marginal perturbation unchanged at linear order
+strongly_relevant_field,0.005,1.875,2.0,12,field-like Ising perturbation illustrative growth
