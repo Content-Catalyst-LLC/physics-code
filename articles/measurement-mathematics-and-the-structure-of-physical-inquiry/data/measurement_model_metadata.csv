@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+repeated timing,estimate period and uncertainty,mean period,limited sample size
+small-angle pendulum,estimate g from length and period,g,requires small angle and ideal conditions
+uncertainty propagation,derive output uncertainty,u_c,first-order approximation
+dimensional analysis,check model coherence,dimension vector,does not replace physical derivation
+nonlinear pendulum,compare approximation with fuller model,period shift,still idealized without damping
+residual analysis,check model fit,residuals,depends on measurement quality
+traceability metadata,document measurement chain,source and calibration references,illustrative scaffold only

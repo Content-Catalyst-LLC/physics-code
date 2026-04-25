@@ -1,0 +1,8 @@
+constant,symbol,value,unit,notes
+standard gravity,g0,9.80665,m s^-2,standard acceleration due to gravity
+pi,pi,3.141592653589793,dimensionless,mathematical constant
+meter,m,1,m,SI unit of length
+second,s,1,s,SI unit of time
+kilogram,kg,1,kg,SI unit of mass
+newton,N,1,kg m s^-2,SI unit of force
+joule,J,1,kg m^2 s^-2,SI unit of energy

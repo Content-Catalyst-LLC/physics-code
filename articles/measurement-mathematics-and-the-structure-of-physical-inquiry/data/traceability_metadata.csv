@@ -1,0 +1,5 @@
+item,reference,method,uncertainty_note,notes
+pendulum length,SI meter,calibrated ruler or length standard,example u_L = 0.001 m,illustrative traceability note
+timing,SI second,digital timer or video frame rate,estimated from repeated timing,illustrative traceability note
+gravity estimate,derived from L and T,measurement model g=4pi^2L/T^2,propagated from L and T,illustrative derived quantity
+period estimate,repeated 10-oscillation timing,mean of repeated trials,standard error of mean,illustrative repeated measurement

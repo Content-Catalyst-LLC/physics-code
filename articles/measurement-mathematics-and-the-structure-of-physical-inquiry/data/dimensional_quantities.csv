@@ -1,0 +1,11 @@
+quantity,symbol,dimension,si_unit,notes
+length,L,L,m,base spatial dimension
+time,T,T,s,base temporal dimension
+mass,M,M,kg,base inertial dimension
+velocity,v,L T^-1,m s^-1,rate of change of position
+acceleration,a,L T^-2,m s^-2,rate of change of velocity
+force,F,M L T^-2,N,Newtonian interaction dimension
+energy,E,M L^2 T^-2,J,work and energy dimension
+power,P,M L^2 T^-3,W,energy transfer rate
+frequency,f,T^-1,Hz,cycles per unit time
+pressure,p,M L^-1 T^-2,Pa,force per area
