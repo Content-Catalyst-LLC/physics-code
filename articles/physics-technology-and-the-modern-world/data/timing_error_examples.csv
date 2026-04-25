@@ -1,0 +1,7 @@
+timing_error_ns,system_context,notes
+1,high_precision_timing,nanosecond-scale timing
+5,navigation_receiver,small timing error
+10,distributed_infrastructure,timing synchronization example
+25,communication_system,moderate timing uncertainty
+50,networked_sensor_system,large precision loss
+100,low_precision_timing,substantial navigation error

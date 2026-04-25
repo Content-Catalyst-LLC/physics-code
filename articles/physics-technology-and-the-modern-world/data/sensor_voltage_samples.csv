@@ -1,0 +1,6 @@
+sample_id,voltage_v,scale_factor_units_per_v,offset_units,measured_quantity
+1,0.25,100,0,temperature_proxy
+2,0.50,100,0,temperature_proxy
+3,0.75,100,0,temperature_proxy
+4,1.00,100,0,temperature_proxy
+5,1.25,100,0,temperature_proxy
