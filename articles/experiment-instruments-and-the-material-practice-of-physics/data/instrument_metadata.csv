@@ -1,0 +1,6 @@
+instrument_id,instrument_name,measured_quantity,resolution,unit,calibration_status,notes
+I001,meter stick,length,0.001,m,illustrative,current for teaching example
+I002,manual stopwatch,time,0.01,s,illustrative,reaction-time uncertainty dominates
+I003,digital voltmeter,voltage,0.001,V,illustrative,used in calibration example
+I004,photodiode detector,optical signal,0.000001,A,illustrative,signal-chain example
+I005,oscilloscope,voltage waveform,0.001,V,illustrative,digitized waveform example

@@ -1,0 +1,7 @@
+chain_step,stage,input_signal,output_signal,possible_uncertainty_source
+1,physical system,pendulum motion,periodic motion,small-angle approximation
+2,sensor or observer,oscillation count,time interval,reaction time or trigger threshold
+3,instrument,stopwatch display,digital time reading,resolution and latency
+4,data recording,display reading,tabulated value,transcription error
+5,analysis,tabulated value,period estimate,statistical variation
+6,measurement model,length and period,g estimate,model approximation and propagated uncertainty
