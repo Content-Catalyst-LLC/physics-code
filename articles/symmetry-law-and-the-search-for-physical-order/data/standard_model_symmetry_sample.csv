@@ -1,0 +1,6 @@
+sector,schematic_group,interaction_or_role,notes
+strong,SU(3),quantum chromodynamics,color gauge symmetry
+weak,SU(2),weak interaction,electroweak sector before symmetry breaking
+hypercharge,U(1),electroweak hypercharge,combines with SU(2) in electroweak theory
+electromagnetic,U(1),electromagnetism,unbroken low-energy gauge symmetry
+higgs,field with symmetry-breaking role,electroweak symmetry breaking,BEH mechanism context

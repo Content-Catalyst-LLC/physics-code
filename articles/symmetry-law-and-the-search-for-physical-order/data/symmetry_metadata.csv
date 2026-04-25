@@ -1,0 +1,8 @@
+symmetry_type,transformation,associated_structure,associated_conservation_or_effect,notes
+time translation,t -> t + epsilon,action invariance,energy conservation,Noether-style example
+spatial translation,x -> x + epsilon,action invariance,momentum conservation,Noether-style example
+rotation,spatial rotation,rotational invariance,angular momentum conservation,Noether-style example
+reflection,x -> -x,discrete invariance,parity-style structure,may be violated in weak interactions
+global phase,psi -> exp(i alpha) psi,phase invariance,charge conservation,simplified quantum example
+local gauge phase,psi(x) -> exp(i alpha(x)) psi(x),gauge invariance,gauge field structure,requires covariant derivative
+spontaneous symmetry breaking,symmetric law with asymmetric ground state,order parameter,emergent order,condensed matter and Higgs-style intuition

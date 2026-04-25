@@ -1,0 +1,8 @@
+time,mass,spring_constant,amplitude,notes
+0.0,1.0,4.0,1.0,harmonic oscillator energy check
+0.5,1.0,4.0,1.0,harmonic oscillator energy check
+1.0,1.0,4.0,1.0,harmonic oscillator energy check
+1.5,1.0,4.0,1.0,harmonic oscillator energy check
+2.0,1.0,4.0,1.0,harmonic oscillator energy check
+2.5,1.0,4.0,1.0,harmonic oscillator energy check
+3.0,1.0,4.0,1.0,harmonic oscillator energy check
