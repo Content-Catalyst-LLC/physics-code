@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+dimensional analysis,unit and scaling checks,dimensions,cannot determine dimensionless constants
+ODE integration,time evolution,state vector,numerical stability and error control needed
+eigenvalue analysis,modes and natural values,eigenvalues,linearized approximation may be limited
+Fourier analysis,spectral decomposition,frequency spectrum,finite sampling and aliasing issues
+uncertainty propagation,measurement-aware derived quantities,sigma_f,linear approximation may fail for large uncertainties
+tensor operations,coordinate-independent physical structure,components and invariants,requires correct transformation rules
+finite difference,discrete approximation to derivatives,grid spacing,stability and convergence constraints

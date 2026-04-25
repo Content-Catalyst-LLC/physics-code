@@ -1,0 +1,9 @@
+relation_name,equation,expected_dimension,notes
+velocity,v = dx/dt,L T^-1,rate of change of position
+acceleration,a = dv/dt,L T^-2,rate of change of velocity
+force,F = m a,M L T^-2,Newtonian force dimension
+kinetic_energy,K = 1/2 m v^2,M L^2 T^-2,mechanical energy
+power,P = dE/dt,M L^2 T^-3,energy per unit time
+pressure,p = F/A,M L^-1 T^-2,force per unit area
+angular_momentum,L = r x p,M L^2 T^-1,rotation-related action dimension
+diffusion_coefficient,D = L^2/t,L^2 T^-1,diffusion scaling

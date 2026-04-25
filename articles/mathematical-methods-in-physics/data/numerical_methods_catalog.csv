@@ -1,0 +1,9 @@
+method_name,method_family,primary_use,key_risk
+Euler method,ODE integration,introductory time stepping,large error and instability
+Runge-Kutta,ODE integration,general numerical integration,step-size sensitivity
+finite difference,PDE/numerical derivatives,grid-based approximation,stability and discretization error
+finite element,PDE/variational methods,complex geometries and weak forms,mesh quality and formulation error
+finite volume,conservation laws,flux-conservative simulation,numerical diffusion and reconstruction errors
+spectral method,PDE/Fourier/Chebyshev methods,smooth high-accuracy problems,boundary and discontinuity challenges
+Monte Carlo,probability/statistical physics,high-dimensional averages,sampling error and convergence
+FFT,spectral analysis,frequency-domain decomposition,aliasing and windowing errors

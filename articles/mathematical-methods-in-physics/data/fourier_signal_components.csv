@@ -1,0 +1,5 @@
+component_id,frequency_hz,amplitude,phase_rad,notes
+fundamental,2.0,1.00,0.0,base oscillator-like component
+harmonic_2,4.0,0.35,0.2,second harmonic
+harmonic_3,6.0,0.20,-0.4,third harmonic
+slow_modulation,0.5,0.15,0.0,slow modulation component

@@ -1,0 +1,6 @@
+case_id,mass_kg,mass_uncertainty_kg,velocity_m_per_s,velocity_uncertainty_m_per_s,notes
+cart_slow,1.20,0.01,0.50,0.02,slow cart kinetic energy example
+cart_medium,1.20,0.01,1.50,0.03,medium speed cart kinetic energy example
+cart_fast,1.20,0.01,3.00,0.05,fast cart kinetic energy example
+projectile,0.145,0.002,38.0,0.8,baseball-like projectile example
+lab_mass,2.50,0.02,0.75,0.01,lab cart example
