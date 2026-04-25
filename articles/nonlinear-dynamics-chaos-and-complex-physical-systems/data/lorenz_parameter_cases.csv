@@ -1,0 +1,5 @@
+case_id,sigma,rho,beta,x0,y0,z0,time_end,n_time_points,notes
+classic_lorenz,10.0,28.0,2.6666666667,1.0,1.0,1.0,40.0,8000,classic chaotic Lorenz parameters
+nearby_lorenz,10.0,28.0,2.6666666667,1.00000001,1.0,1.0,40.0,8000,nearby initial condition for separation
+lower_rho,10.0,10.0,2.6666666667,1.0,1.0,1.0,30.0,6000,lower rho comparison
+higher_rho,10.0,35.0,2.6666666667,1.0,1.0,1.0,40.0,8000,higher rho comparison

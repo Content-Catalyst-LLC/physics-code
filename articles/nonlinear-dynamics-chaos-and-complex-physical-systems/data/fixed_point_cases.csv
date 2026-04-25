@@ -1,0 +1,6 @@
+case_id,map_or_flow,parameter_value,fixed_point,derivative_or_eigenvalue,stability_rule,notes
+logistic_zero_r_0_8,logistic_map,0.8,0.0,0.8,abs(derivative)<1,stable zero fixed point
+logistic_zero_r_1_2,logistic_map,1.2,0.0,1.2,abs(derivative)<1,unstable zero fixed point
+logistic_nonzero_r_2_5,logistic_map,2.5,0.6,-0.5,abs(derivative)<1,stable nonzero fixed point
+logistic_nonzero_r_3_2,logistic_map,3.2,0.6875,-1.2,abs(derivative)<1,unstable after period doubling
+saddle_node_normal_r_neg,saddle_node_flow,-1.0,1.0,2.0,derivative sign depends on one-dimensional flow,illustrative normal-form point

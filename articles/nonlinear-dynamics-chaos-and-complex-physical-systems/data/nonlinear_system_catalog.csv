@@ -1,0 +1,11 @@
+system_name,system_type,core_behavior,canonical_equation_or_note
+logistic_map,discrete_map,bifurcation and chaos,x_{n+1}=r x_n(1-x_n)
+lorenz_system,continuous_flow,strange attractor and sensitive dependence,three-dimensional nonlinear ODE
+van_der_pol_oscillator,continuous_flow,stable limit cycle,nonlinear damping
+duffing_oscillator,continuous_flow,nonlinear resonance and chaos when driven,cubic stiffness oscillator
+forced_damped_pendulum,continuous_flow,periodic and chaotic dynamics,driven nonlinear pendulum
+henon_map,discrete_map,strange attractor,two-dimensional map
+rossler_system,continuous_flow,chaotic attractor,three-dimensional flow
+kuramoto_model,coupled_oscillator_system,synchronization,phase oscillator network
+reaction_diffusion_system,spatial_pde,pattern formation,local reaction plus diffusion
+navier_stokes_flow,continuum_pde,turbulence and coherent structures,nonlinear fluid momentum equations

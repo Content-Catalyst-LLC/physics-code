@@ -1,0 +1,6 @@
+case_id,r,x0,n_iter,burn_in,notes
+stable_fixed_point,2.8,0.2,1200,800,stable nonzero fixed point
+period_doubling,3.2,0.2,1200,800,two-cycle region
+higher_period,3.5,0.2,1200,800,higher-period behavior
+chaotic,3.9,0.2,1200,800,chaotic region
+edge_case,4.0,0.200001,1200,800,fully chaotic idealized edge

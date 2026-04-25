@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+fixed_point_analysis,equilibrium and local behavior,Jacobian eigenvalues,local analysis may miss global structure
+bifurcation_analysis,qualitative parameter changes,control parameter,normal forms are simplified
+logistic_map,iteration and chaos demonstration,r,idealized dimensionless map
+lorenz_system,deterministic chaos example,sigma rho beta,simplified convection-related model
+lyapunov_diagnostic,predictability and sensitivity,lambda,careful algorithms needed for rigorous estimates
+strange_attractor,long-run chaotic geometry,attractor set,visualization alone is insufficient
+phase_portrait,geometric dynamics,state variables,projection may hide higher-dimensional structure
