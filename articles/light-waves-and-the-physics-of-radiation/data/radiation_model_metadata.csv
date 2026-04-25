@@ -1,0 +1,9 @@
+model_or_concept,primary_use,key_quantity,limitation
+wave relation,connect frequency wavelength and speed,c or v,medium must be specified
+double-slit interference,phase-based fringe modeling,path difference,ideal coherent slits
+single-slit diffraction,aperture spreading model,sinc envelope,not included in article body code
+Planck law,blackbody spectral radiance,temperature and wavelength,ideal blackbody
+Wien law,peak wavelength estimate,b/T,only peak-location scaling
+Stefan-Boltzmann law,total blackbody exitance,sigma T^4,integrated ideal blackbody
+photon energy,energy-frequency relation,hf,quantum relation not full quantum optics
+Poynting vector,electromagnetic energy flux,E cross B,requires field information

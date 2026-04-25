@@ -1,0 +1,8 @@
+band,approx_min_wavelength_m,approx_max_wavelength_m,common_unit,notes
+radio,1e-3,1e5,m,longest-wavelength electromagnetic radiation category
+microwave,1e-4,1e-1,m,common in communications radar and remote sensing
+infrared,7e-7,1e-3,m,thermal sensing and molecular vibration region
+visible,3.8e-7,7.0e-7,m,human-visible portion of spectrum
+ultraviolet,1e-8,4e-7,m,shorter wavelength than visible light
+x-ray,1e-11,1e-8,m,high-energy imaging and materials analysis
+gamma ray,1e-15,1e-11,m,shortest-wavelength high-energy radiation category

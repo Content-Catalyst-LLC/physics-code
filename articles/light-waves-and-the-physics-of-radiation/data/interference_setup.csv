@@ -1,0 +1,7 @@
+parameter,value,unit,notes
+wavelength,550e-9,m,green visible light example
+slit_separation,0.2e-3,m,double-slit separation
+screen_distance,1.5,m,distance from slits to screen
+screen_min,-0.02,m,left side of modeled screen
+screen_max,0.02,m,right side of modeled screen
+n_screen_points,2000,count,screen sampling resolution

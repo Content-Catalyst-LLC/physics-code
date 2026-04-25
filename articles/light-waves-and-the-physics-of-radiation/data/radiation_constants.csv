@@ -1,0 +1,8 @@
+constant,symbol,value,unit,notes
+speed of light,c,299792458,m s^-1,exact SI value
+Planck constant,h,6.62607015e-34,J s,exact SI value
+Boltzmann constant,k_B,1.380649e-23,J K^-1,exact SI value
+Stefan-Boltzmann constant,sigma,5.670374419e-8,W m^-2 K^-4,exact derived constant value
+Wien displacement constant,b,2.897771955e-3,m K,wavelength displacement constant
+elementary charge,e,1.602176634e-19,C,exact SI value
+electron volt,eV,1.602176634e-19,J,energy conversion

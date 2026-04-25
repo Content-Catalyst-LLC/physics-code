@@ -1,0 +1,6 @@
+case_id,temperature_k,notes
+T3000,3000,warm incandescent-style spectrum
+T4500,4500,warm stellar/thermal example
+T5800,5800,solar-like photospheric scale example
+T6000,6000,hot visible-emitting thermal example
+T10000,10000,hot blue-white thermal source example
