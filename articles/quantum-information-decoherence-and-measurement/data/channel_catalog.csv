@@ -1,0 +1,7 @@
+channel_name,primary_effect,key_parameter,notes
+pure_dephasing,decays off-diagonal coherence,T2,populations fixed in selected basis
+amplitude_damping,relaxation from excited to ground state,T1,models energy loss
+depolarizing,mixes state with maximally mixed state,p,symmetric qubit noise
+phase_flip,random Pauli Z error,p,discrete dephasing-like error
+bit_flip,random Pauli X error,p,classical-like qubit flip
+measurement,projects or partially measures state,basis,information extraction and disturbance

@@ -1,0 +1,7 @@
+case_id,alpha_real,alpha_imag,beta_real,beta_imag,notes
+zero_state,1.0,0.0,0.0,0.0,computational basis zero
+one_state,0.0,0.0,1.0,0.0,computational basis one
+plus_state,0.7071067812,0.0,0.7071067812,0.0,equal real superposition
+minus_state,0.7071067812,0.0,-0.7071067812,0.0,equal superposition with relative phase pi
+plus_i_state,0.7071067812,0.0,0.0,0.7071067812,equal superposition with relative phase pi over 2
+biased_state,0.8660254038,0.0,0.5,0.0,biased real superposition

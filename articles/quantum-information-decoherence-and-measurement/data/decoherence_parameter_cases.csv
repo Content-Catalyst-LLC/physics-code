@@ -1,0 +1,5 @@
+case_id,t2_seconds,t1_seconds,time_end_seconds,n_time_points,notes
+fast_dephasing,2.0e-6,20.0e-6,20.0e-6,101,short coherence time
+baseline_dephasing,5.0e-6,50.0e-6,25.0e-6,101,article dephasing baseline
+slow_dephasing,20.0e-6,100.0e-6,50.0e-6,101,longer coherence time
+fast_relaxation,5.0e-6,10.0e-6,40.0e-6,101,short relaxation time

@@ -1,0 +1,6 @@
+case_id,error_pattern,physical_state,expected_syndrome,correction,notes
+no_error,000,000,00,none,encoded zero with no error
+flip_qubit_1,100,100,11,X1,first qubit bit flip
+flip_qubit_2,010,010,10,X2,second qubit bit flip
+flip_qubit_3,001,001,01,X3,third qubit bit flip
+logical_error,111,111,00,none,three flips look like logical change in toy model

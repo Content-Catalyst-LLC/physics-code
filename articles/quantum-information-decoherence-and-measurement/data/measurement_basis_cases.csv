@@ -1,0 +1,5 @@
+case_id,basis_name,projector_label,projector_matrix_flat,notes
+z_basis_zero,Z,0,"1,0,0,0",projector onto |0>
+z_basis_one,Z,1,"0,0,0,1",projector onto |1>
+x_basis_plus,X,+,"0.5,0.5,0.5,0.5",projector onto |+>
+x_basis_minus,X,-,"0.5,-0.5,-0.5,0.5",projector onto |->

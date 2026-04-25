@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+state_vector,pure qubit representation,amplitudes,does not represent mixed states
+density_matrix,mixed states and open systems,rho,scales exponentially with qubit number
+projective_measurement,ideal measurement probabilities,projectors,idealization of real apparatus
+pure_dephasing,coherence loss,T2,simplified environment model
+amplitude_damping,energy relaxation,T1,simplified zero-temperature relaxation
+bell_state_entanglement,entanglement demonstration,subsystem entropy,small two-qubit example
+bit_flip_code,error-correction concept,syndrome,protects only bit flips in toy form
