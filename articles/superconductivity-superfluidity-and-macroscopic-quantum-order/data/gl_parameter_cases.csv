@@ -1,0 +1,5 @@
+case_id,critical_temperature_k,alpha_0,beta,temperature_min_k,temperature_max_k,notes
+niobium_like_demo,9.2,1.0,1.0,2.0,14.0,teaching scaffold inspired by low-temperature superconductors
+low_tc_demo,4.2,1.0,1.0,0.5,8.0,lower critical temperature scaffold
+high_tc_demo,90.0,1.0,1.0,10.0,120.0,high-temperature transition scaffold without microscopic claims
+strong_beta_demo,9.2,1.0,2.0,2.0,14.0,larger quartic coefficient suppresses amplitude

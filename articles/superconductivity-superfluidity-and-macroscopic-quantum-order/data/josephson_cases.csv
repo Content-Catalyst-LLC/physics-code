@@ -1,0 +1,6 @@
+case_id,i_bias,time_step,n_steps,initial_phase,notes
+subcritical_low,0.25,0.01,8000,0.1,below critical current
+subcritical_high,0.75,0.01,8000,0.1,near but below critical current
+critical,1.00,0.01,8000,0.1,critical normalized current
+running_state,1.25,0.01,8000,0.1,above critical current phase running
+high_running_state,1.75,0.01,8000,0.1,strongly above critical current

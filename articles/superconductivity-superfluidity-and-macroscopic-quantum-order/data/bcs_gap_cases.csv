@@ -1,0 +1,4 @@
+case_id,critical_temperature_k,n_points,notes
+low_tc_bcs_demo,9.2,120,simplified weak-coupling BCS gap scaffold
+helium3_pairing_demo,0.0025,120,paired fermion low-temperature scaffold
+higher_tc_demo,30.0,120,higher transition temperature scaffold

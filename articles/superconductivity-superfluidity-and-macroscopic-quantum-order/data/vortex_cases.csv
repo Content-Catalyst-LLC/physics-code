@@ -1,0 +1,4 @@
+case_id,winding_number,grid_size,domain_min,domain_max,notes
+single_vortex,1,101,-5,5,unit phase winding
+double_vortex,2,101,-5,5,double phase winding scaffold
+antivortex,-1,101,-5,5,negative phase winding scaffold
