@@ -1,0 +1,9 @@
+constant_name,value,unit,notes
+elementary_charge,1.602176634e-19,C,exact SI value
+electron_mass,9.1093837015e-31,kg,electron rest mass
+proton_mass,1.67262192369e-27,kg,proton rest mass
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+vacuum_permittivity,8.8541878128e-12,F m^-1,electric constant
+vacuum_permeability,1.25663706212e-6,H m^-1,magnetic constant approximate
+ev_to_joule,1.602176634e-19,J per eV,exact conversion
+ev_to_kelvin,11604.51812,K per eV,temperature equivalent

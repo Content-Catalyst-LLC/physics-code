@@ -1,0 +1,6 @@
+case_id,magnetic_field_t,perpendicular_speed_m_s,particle_species,notes
+electron_weak_field,0.01,1.0e5,electron,electron gyration in weak laboratory field
+electron_strong_field,1.0,1.0e5,electron,electron gyration in stronger field
+proton_weak_field,0.01,1.0e5,proton,ion gyration in weak laboratory field
+proton_strong_field,1.0,1.0e5,proton,ion gyration in stronger field
+fusion_deuteron,5.0,1.0e6,deuteron,magnetized fusion ion educational case

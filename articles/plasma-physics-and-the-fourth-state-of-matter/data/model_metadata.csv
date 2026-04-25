@@ -1,0 +1,9 @@
+model_or_concept,primary_use,key_quantity,limitation
+debye_length,electrostatic shielding,lambda_D,assumes simple electron shielding model
+plasma_frequency,collective oscillation,omega_pe,cold unmagnetized approximation in simplest form
+cyclotron_motion,magnetized particle motion,Omega_c and r_L,uniform field idealization
+plasma_beta,pressure comparison,beta,depends on pressure model and magnetic geometry
+alfven_speed,magnetized wave scale,v_A,MHD scale approximation
+lorentz_orbit,single-particle motion,trajectory,no self-consistent fields or collisions
+fluid_model,macroscopic plasma dynamics,density velocity pressure,can miss kinetic effects
+kinetic_model,velocity-space dynamics,distribution function,high computational cost

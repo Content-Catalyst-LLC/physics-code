@@ -1,0 +1,9 @@
+diagnostic,primary_quantity,typical_context,notes
+Langmuir probe,electron temperature and density,low-temperature plasma,can perturb plasma and depends on sheath model
+Thomson scattering,electron temperature and density,fusion and laboratory plasma,nonintrusive but technically demanding
+magnetic probe,magnetic fluctuations,laboratory plasma,measures time-varying magnetic fields
+interferometry,line-integrated density,fusion and plasma devices,requires inversion for profiles
+spectroscopy,composition temperature flow,laboratory astrophysical and industrial plasma,depends on atomic models
+reflectometry,density profiles and fluctuations,fusion plasma,uses wave reflection from cutoff layers
+bolometry,radiated power,fusion plasma,integrated radiation measurement
+charged particle analyzer,particle energy distribution,space and laboratory plasma,requires access to particles

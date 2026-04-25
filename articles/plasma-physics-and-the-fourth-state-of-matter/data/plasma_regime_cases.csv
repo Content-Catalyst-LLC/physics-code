@@ -1,0 +1,6 @@
+case_id,electron_density_m3,electron_temperature_ev,ion_temperature_ev,ion_mass_amu,charge_state,magnetic_field_t,system_size_m,notes
+low_temperature_discharge,1.0e16,3,0.03,40,1,0.01,0.1,weakly ionized industrial-style plasma scale
+space_plasma,1.0e6,10,10,1,1,1.0e-8,1.0e7,solar-wind-like educational scale
+fusion_core,1.0e20,10000,10000,2.5,1,5.0,2.0,magnetic-fusion core educational scale
+ionosphere,1.0e11,0.2,0.1,16,1,5.0e-5,1.0e5,ionospheric educational scale
+laboratory_plasma,1.0e18,10,1,1,1,0.1,1.0,laboratory plasma example
