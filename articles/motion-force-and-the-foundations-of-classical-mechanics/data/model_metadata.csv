@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+ideal projectile,parabolic motion without drag,range and height,neglects air resistance
+quadratic drag projectile,compare ideal and drag assumptions,trajectory and range,not calibrated aerodynamics
+Newton force model,convert net force to acceleration,F_net and m,requires complete force accounting
+impulse-momentum,integrate force over time,J and Delta p,depends on time resolution
+trajectory fit,compare measurement-style data with quadratic model,residuals,measurement noise simplified
+free-body reasoning,organize external forces,force components,diagram not directly encoded
+coordinate decomposition,simplify vector problems,components,depends on coordinate choice

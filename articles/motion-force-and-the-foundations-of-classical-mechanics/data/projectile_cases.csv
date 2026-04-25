@@ -1,0 +1,7 @@
+case_id,initial_speed_m_per_s,launch_angle_deg,initial_height_m,drag_coefficient_per_m,notes
+base_ideal,12.0,45.0,0.0,0.0,article base ideal projectile
+low_angle,12.0,30.0,0.0,0.0,lower launch angle
+high_angle,12.0,60.0,0.0,0.0,higher launch angle
+fast_launch,18.0,45.0,0.0,0.0,higher initial speed
+drag_base,12.0,45.0,0.0,0.08,quadratic drag comparison
+high_drag,12.0,45.0,0.0,0.16,stronger drag comparison

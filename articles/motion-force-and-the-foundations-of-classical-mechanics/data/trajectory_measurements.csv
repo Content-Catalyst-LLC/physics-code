@@ -1,0 +1,18 @@
+point_id,time_s,x_measured_m,y_measured_m,notes
+1,0.00,0.00,0.00,illustrative measured-style point
+2,0.10,0.84,0.80,illustrative measured-style point
+3,0.20,1.70,1.50,illustrative measured-style point
+4,0.30,2.54,2.10,illustrative measured-style point
+5,0.40,3.39,2.60,illustrative measured-style point
+6,0.50,4.25,3.00,illustrative measured-style point
+7,0.60,5.08,3.30,illustrative measured-style point
+8,0.70,5.94,3.52,illustrative measured-style point
+9,0.80,6.78,3.60,illustrative measured-style point
+10,0.90,7.62,3.55,illustrative measured-style point
+11,1.00,8.48,3.45,illustrative measured-style point
+12,1.10,9.33,3.18,illustrative measured-style point
+13,1.20,10.18,2.82,illustrative measured-style point
+14,1.30,11.01,2.36,illustrative measured-style point
+15,1.40,11.87,1.80,illustrative measured-style point
+16,1.50,12.72,1.12,illustrative measured-style point
+17,1.60,13.57,0.36,illustrative measured-style point
