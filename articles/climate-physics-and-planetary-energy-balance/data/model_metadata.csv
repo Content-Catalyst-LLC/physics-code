@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+zero_dimensional_energy_balance,global radiation balance,Te and ASR,no spatial or vertical structure
+co2_forcing_approximation,scenario forcing,DeltaF,approximation not full radiative transfer
+linear_feedback_model,equilibrium response,lambda,feedbacks may be state dependent
+one_layer_ebm,transient response,T anomaly,simplified heat capacity
+two_layer_ebm,ocean heat uptake,Tu and Td,limited ocean structure
+albedo_sensitivity,shortwave reflection,alpha,no cloud microphysics
+monte_carlo_uncertainty,parameter uncertainty,output distributions,requires assumed input distributions

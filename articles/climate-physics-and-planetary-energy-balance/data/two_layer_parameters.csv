@@ -1,0 +1,5 @@
+case_id,upper_heat_capacity_j_m2_k,deep_heat_capacity_j_m2_k,feedback_parameter_w_m2_k,ocean_exchange_w_m2_k,co2_initial_ppm,co2_final_ppm,years_end,notes
+baseline_two_layer,8.0e8,1.0e10,1.2,0.7,280,560,200,baseline two-layer model
+strong_ocean_exchange,8.0e8,1.0e10,1.2,1.2,280,560,200,stronger deep-ocean coupling
+weak_ocean_exchange,8.0e8,1.0e10,1.2,0.3,280,560,200,weaker deep-ocean coupling
+large_deep_ocean,8.0e8,2.0e10,1.2,0.7,280,560,200,larger deep heat reservoir

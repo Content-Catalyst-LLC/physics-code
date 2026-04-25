@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+solar_constant,1361,W m^-2,approximate total solar irradiance near Earth orbit
+earth_like_albedo,0.30,dimensionless,illustrative planetary albedo
+stefan_boltzmann,5.670374419e-8,W m^-2 K^-4,Stefan-Boltzmann constant
+co2_reference,280,ppm,preindustrial-style reference value for examples
+co2_doubling,560,ppm,CO2 doubling relative to 280 ppm
+seconds_per_year,31557600,s,365.25 days

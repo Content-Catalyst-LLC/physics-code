@@ -1,0 +1,7 @@
+case_id,heat_capacity_j_m2_k,feedback_parameter_w_m2_k,co2_initial_ppm,co2_final_ppm,years_end,notes
+upper_ocean_baseline,8.0e8,1.2,280,560,150,article one-layer baseline
+lower_heat_capacity,4.0e8,1.2,280,560,150,faster response case
+higher_heat_capacity,1.6e9,1.2,280,560,150,slower response case
+weak_feedback,8.0e8,0.8,280,560,150,higher equilibrium response
+strong_feedback,8.0e8,1.6,280,560,150,lower equilibrium response
+high_forcing,8.0e8,1.2,280,700,150,higher concentration scenario

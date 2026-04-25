@@ -1,0 +1,7 @@
+scenario,year,co2_ppm,notes
+reference,0,280,reference concentration
+linear_doubling,50,373.333333,linear path to doubling
+linear_doubling,100,466.666667,linear path to doubling
+linear_doubling,150,560,CO2 doubling
+high_scenario,150,700,higher concentration example
+stabilized_420,150,420,stabilized concentration example
