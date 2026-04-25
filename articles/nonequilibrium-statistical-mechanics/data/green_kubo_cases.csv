@@ -1,0 +1,5 @@
+case_id,correlation_time,thermal_velocity_variance,n_points,time_max,notes
+short_memory,0.5,1.0,1000,10,short correlation time
+baseline_memory,1.0,1.0,1000,10,baseline exponential velocity autocorrelation
+long_memory,2.0,1.0,1000,10,longer correlation time
+higher_variance,1.0,2.0,1000,10,higher velocity variance

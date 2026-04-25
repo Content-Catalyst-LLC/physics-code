@@ -1,0 +1,6 @@
+case_id,n_steps,time_step,spring_constant,mobility,thermal_energy,initial_position,notes
+baseline_harmonic,250000,0.001,2.0,1.0,1.0,5.0,harmonic equilibrium relaxation scaffold
+weak_trap,250000,0.001,0.5,1.0,1.0,5.0,weaker harmonic confinement
+strong_trap,250000,0.001,5.0,1.0,1.0,5.0,stronger harmonic confinement
+higher_temperature,250000,0.001,2.0,1.0,2.0,5.0,higher thermal energy
+lower_mobility,250000,0.001,2.0,0.5,1.0,5.0,lower mobility with consistent diffusion

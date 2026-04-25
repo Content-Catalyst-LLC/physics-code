@@ -1,0 +1,4 @@
+case_id,entropy_mean,entropy_sd,n_samples,seed,notes
+near_equilibrium,0.5,1.0,200000,42,small positive entropy production
+driven_system,2.0,1.0,200000,101,stronger positive entropy production
+broad_fluctuations,1.0,2.0,200000,202,broad entropy-production distribution

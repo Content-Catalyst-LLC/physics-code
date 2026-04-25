@@ -1,0 +1,6 @@
+case_id,k_plus,k_minus,notes
+equilibrium_cycle,1.0,1.0,detailed balance with no net cycle current
+weak_drive,1.5,1.0,weak clockwise nonequilibrium drive
+moderate_drive,3.0,1.0,moderate clockwise nonequilibrium drive
+strong_drive,10.0,1.0,strong clockwise nonequilibrium drive
+reverse_drive,1.0,3.0,counterclockwise nonequilibrium drive

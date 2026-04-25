@@ -1,0 +1,6 @@
+constant_name,value,unit,notes
+k_B,1.380649e-23,J K^-1,Boltzmann constant exact SI
+h,6.62607015e-34,J s,Planck constant exact SI
+hbar,1.054571817e-34,J s,reduced Planck constant
+room_temperature,298.15,K,reference room temperature
+thermal_energy_room,4.116404e-21,J,k_B times 298.15 K
