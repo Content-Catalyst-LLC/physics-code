@@ -1,0 +1,7 @@
+metric_name,primary_context,key_parameters,notes
+Minkowski,flat spacetime,c,baseline special-relativistic metric
+Schwarzschild,non-rotating spherical mass,M,black hole exterior and weak-field solar-system tests
+Kerr,rotating black hole,M and angular momentum,frame dragging ergosphere and rotating horizons
+FLRW,homogeneous isotropic cosmology,a(t) and k,expanding universe model
+de_Sitter,positive cosmological constant,Lambda,vacuum accelerated expansion model
+anti_de_Sitter,negative cosmological constant,Lambda,important in mathematical relativity and holography

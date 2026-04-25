@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+schwarzschild_radius,compactness scale,r_s,non-rotating spherical mass assumption
+gravitational_redshift,clock and photon frequency shift,z,Schwarzschild exterior idealization
+weak_field_precession,orbital precession diagnostic,perihelion angle,pedagogical correction not full geodesic solver
+curvature_symbolic_sphere,symbolic curvature example,scalar curvature,two-sphere example not spacetime GR
+friedmann_scales,cosmological expansion scale,H(z),homogeneous isotropic model
+metric_catalog,reproducibility,metric metadata,metadata not symbolic tensor engine
+sql_metadata,source and assumption tracking,relations and runs,requires disciplined updates

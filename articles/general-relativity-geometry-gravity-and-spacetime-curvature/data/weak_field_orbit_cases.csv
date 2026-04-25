@@ -1,0 +1,4 @@
+case_id,central_mass_kg,semi_major_axis_m,eccentricity,time_step_s,n_steps,notes
+mercury_like,1.98847e30,5.7909e10,0.2056,2000,120000,Mercury-like educational weak-field orbit
+earth_like,1.98847e30,1.495978707e11,0.0167,4000,120000,Earth-like weak-field orbit
+compact_test,1.98847e30,1.0e10,0.2,500,120000,stronger precession educational toy case

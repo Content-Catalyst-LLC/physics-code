@@ -1,0 +1,7 @@
+case_id,mass_kg,radius_m,object_class,notes
+earth,5.9722e24,6.371e6,planet,weak-field terrestrial case
+sun,1.98847e30,6.957e8,star,solar weak-field case
+white_dwarf_like,1.98847e30,7.0e6,white dwarf,compact stellar remnant educational case
+neutron_star_like,2.783858e30,1.2e4,neutron star,compact strong-field educational case
+stellar_black_hole_10sm,1.98847e31,,black hole,ten solar mass Schwarzschild scale
+supermassive_black_hole_4e6sm,7.95388e36,,black hole,Milky Way center scale educational case
