@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+hbar,1.054571817e-34,J s,reduced Planck constant
+hbar_natural,1,dimensionless,hbar equals one convention for examples
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+default_mass,1,dimensionless,teaching oscillator mass
+default_omega,1,dimensionless,teaching oscillator angular frequency
+default_beta,4,dimensionless,teaching Euclidean time extent

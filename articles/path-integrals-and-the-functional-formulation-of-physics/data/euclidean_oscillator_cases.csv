@@ -1,0 +1,5 @@
+case_id,mass,omega,hbar,beta,n_steps,n_thermalization_sweeps,n_measurement_sweeps,proposal_width,random_seed,notes
+article_demo,1.0,1.0,1.0,4.0,128,1000,3000,0.8,42,article body Euclidean harmonic oscillator example
+short_beta,1.0,1.0,1.0,2.0,96,800,2000,0.8,101,shorter imaginary-time extent
+stiff_oscillator,1.0,2.0,1.0,4.0,128,1000,3000,0.5,202,higher angular frequency oscillator
+large_mass,2.0,1.0,1.0,4.0,128,1000,3000,0.5,303,larger mass suppresses rough paths

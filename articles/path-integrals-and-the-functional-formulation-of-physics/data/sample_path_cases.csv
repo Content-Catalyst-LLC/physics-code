@@ -1,0 +1,5 @@
+path_name,path_type,amplitude,roughness_multiplier,notes
+zero_path,zero,0.0,0.0,minimal reference path
+sine_path,sine,1.0,0.0,smooth periodic path
+rough_path,sine_plus_harmonic,1.0,0.25,smooth path with higher-frequency roughness
+large_amplitude_sine,sine,2.0,0.0,larger potential contribution

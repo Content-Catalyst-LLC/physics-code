@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+discretized_euclidean_action,path weighting,S_E,depends on discretization and boundary conditions
+euclidean_oscillator_monte_carlo,path sampling,mean x squared,teaching sampler with local updates
+gaussian_integral_diagnostics,free theory diagnostics,determinant and inverse kernel,finite-dimensional scaffold
+generating_functional_scaffold,correlation generation,Z[J],toy two-source expression
+lattice_scalar_field_scaffold,field configuration action,S_E phi,not production lattice field theory
+stochastic_path_scaffold,noisy histories,path statistics,simple Gaussian increments only
+sql_metadata,reproducibility,actions assumptions and sources,requires disciplined updates

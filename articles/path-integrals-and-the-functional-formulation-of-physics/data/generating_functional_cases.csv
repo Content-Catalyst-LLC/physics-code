@@ -1,0 +1,5 @@
+case_id,propagator_value,source_j1,source_j2,notes
+unit_propagator,1.0,0.5,-0.25,two-source Gaussian generating functional scaffold
+strong_correlation,2.0,0.5,0.5,larger two-point kernel
+weak_correlation,0.25,1.0,-1.0,smaller two-point kernel
+zero_source,1.0,0.0,0.0,normalization check
