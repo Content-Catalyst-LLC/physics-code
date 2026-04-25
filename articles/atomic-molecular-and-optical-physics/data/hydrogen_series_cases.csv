@@ -1,0 +1,5 @@
+series,n_lower,n_upper_min,n_upper_max,notes
+Lyman,1,2,10,ultraviolet hydrogen series
+Balmer,2,3,10,visible and near ultraviolet hydrogen series
+Paschen,3,4,12,infrared hydrogen series
+Brackett,4,5,14,infrared hydrogen series

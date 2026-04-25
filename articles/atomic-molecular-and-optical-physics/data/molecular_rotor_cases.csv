@@ -1,0 +1,6 @@
+case_id,rotational_constant_cm_inv,temperature_k,j_max,notes
+co_like_room_temperature,1.93,300,30,illustrative CO-like rotor at room temperature
+light_rotor,10.5,300,20,large rotational constant example
+heavy_rotor,0.25,300,60,small rotational constant example
+cold_rotor,1.93,30,30,cold rotational distribution example
+hot_rotor,1.93,1000,60,hot rotational distribution example

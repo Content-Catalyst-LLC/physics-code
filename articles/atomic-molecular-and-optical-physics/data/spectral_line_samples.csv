@@ -1,0 +1,10 @@
+sample_id,wavelength_nm,intensity,notes
+1,654.8,0.12,synthetic left wing
+2,655.2,0.20,synthetic left wing
+3,655.6,0.41,synthetic rising line
+4,656.0,0.73,synthetic near center
+5,656.3,1.00,synthetic line center
+6,656.6,0.81,synthetic near center
+7,657.0,0.48,synthetic falling line
+8,657.4,0.24,synthetic right wing
+9,657.8,0.13,synthetic right wing

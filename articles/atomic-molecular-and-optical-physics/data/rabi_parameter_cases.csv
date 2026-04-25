@@ -1,0 +1,5 @@
+case_id,rabi_frequency_rad_s,detuning_rad_s,time_end_s,n_time_points,notes
+on_resonance,1000000,0,0.00002,1000,ideal resonant two-level drive
+moderate_detuning,1000000,500000,0.00002,1000,detuned drive comparison
+large_detuning,1000000,2000000,0.00002,1000,off-resonant suppression
+slow_drive,250000,0,0.00008,1000,lower Rabi frequency

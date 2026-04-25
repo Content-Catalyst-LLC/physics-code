@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+rydberg_formula,hydrogen spectral lines,wavelength,no fine hyperfine Lamb or isotope corrections
+photon_conversion,frequency wavelength energy conversion,h nu,requires unit consistency
+rigid_rotor,molecular rotation,J and B,ignores centrifugal distortion
+harmonic_vibrator,molecular vibration,v and omega,ignores anharmonicity
+boltzmann_population,thermal state populations,temperature and energy,assumes equilibrium
+two_level_rabi,coherent optical driving,Omega and Delta,ignores decay and decoherence
+gaussian_line_fit,simple spectroscopy,line center and width,not full Voigt or instrumental model
