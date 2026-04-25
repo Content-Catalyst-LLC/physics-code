@@ -1,0 +1,5 @@
+quantity,value,unit,notes
+sound_horizon_rd,147.0,Mpc,representative standard-ruler scale for teaching scaffold
+bao_wiggle_scale,105.0,Mpc h^-1,approximate h-scaled scale used in toy spectrum
+low_redshift_bao_z,0.5,dimensionless,example transverse BAO redshift
+high_redshift_bao_z,2.0,dimensionless,example Lyman-alpha and quasar redshift range scaffold

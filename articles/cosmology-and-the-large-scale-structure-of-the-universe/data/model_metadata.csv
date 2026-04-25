@@ -1,0 +1,9 @@
+model_or_concept,primary_use,key_quantity,limitation
+flat_lcdm_background,background expansion,E(z),neglects radiation in low-redshift example
+distance_redshift,observational geometry,chi DA DL,requires cosmological model assumptions
+growth_index_approximation,linear growth scaffold,D(z),approximate and not a full growth ODE solution
+toy_power_spectrum,large-scale-structure illustration,P(k),not a physical Boltzmann spectrum
+bao_scale_scaffold,standard-ruler intuition,theta_BAO and delta_z_BAO,uses representative sound horizon
+survey_metadata,observational context,tracers and observables,not a full survey data model
+simulation_summary,computational context,method and outputs,not a simulation pipeline
+sql_metadata,reproducibility,parameters assumptions sources,requires disciplined updates

@@ -1,0 +1,7 @@
+simulation_or_suite,method,primary_outputs,cosmological_use,notes
+Millennium Simulation,N-body dark matter,halo catalogs merger trees large-scale structure,structure formation benchmark,classic large-volume simulation
+IllustrisTNG,magnetohydrodynamic cosmological simulation,galaxies gas halos black holes,galaxy formation and baryonic effects,hydrodynamic simulation suite
+EAGLE,hydrodynamic cosmological simulation,galaxy populations halos gas,galaxy formation and feedback,calibrated galaxy formation simulations
+AbacusSummit,N-body simulations,mock catalogs matter clustering covariance,precision survey cosmology,large suite for DESI-era analyses
+Quijote,N-body simulation suite,parameter variations derivatives covariance,cosmological inference and machine learning,large ensemble
+Bolshoi-Planck,N-body simulation,halo catalogs subhalos structure growth,halo modeling and galaxy-halo connection,Planck-like cosmology

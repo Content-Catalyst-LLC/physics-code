@@ -1,0 +1,9 @@
+survey,primary_observables,main_tracers,cosmological_role,notes
+WMAP,CMB temperature and polarization,microwave sky,early-universe parameters and CMB anisotropies,NASA mission
+Planck,CMB temperature polarization and lensing,microwave sky,precision Lambda-CDM constraints,ESA mission
+SDSS,galaxy clustering spectra imaging,galaxies quasars BAO,large-scale structure and BAO,long-running ground survey
+DES,weak lensing supernovae clustering,galaxies supernovae,dark energy and structure growth,Dark Energy Survey
+DESI,spectroscopic redshifts BAO RSD,galaxies quasars Lyman-alpha forest,expansion history and dark energy,Dark Energy Spectroscopic Instrument
+Euclid,weak lensing clustering spectra,galaxies,dark energy dark matter structure growth,ESA space mission
+Rubin LSST,deep time-domain imaging,galaxies supernovae lenses,weak lensing supernovae transients,wide-field optical survey
+Roman,wide-field imaging spectroscopy supernovae,galaxies supernovae lenses,dark energy and large-scale structure,NASA space mission
