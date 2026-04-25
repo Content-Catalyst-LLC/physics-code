@@ -1,0 +1,5 @@
+quantity,value,unit,notes
+higgs_vev,246,GeV,electroweak scale approximation
+higgs_boson_mass,125.25,GeV,illustrative Higgs mass scale
+mu2,-1,arbitrary,schematic potential coefficient
+lambda,0.5,arbitrary,schematic quartic coefficient

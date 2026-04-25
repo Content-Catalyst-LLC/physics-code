@@ -1,0 +1,10 @@
+particle,category,spin,charge_e,strong_interaction,weak_interaction,electromagnetic_interaction,notes
+electron,fermion,0.5,-1,no,yes,yes,charged lepton
+electron neutrino,fermion,0.5,0,no,yes,no,neutrino flavor
+up quark,fermion,0.5,0.6666667,yes,yes,yes,quark flavor
+down quark,fermion,0.5,-0.3333333,yes,yes,yes,quark flavor
+photon,gauge boson,1,0,no,no,mediator,electromagnetic gauge boson
+gluon,gauge boson,1,0,mediator,no,no,strong interaction gauge boson
+W boson,gauge boson,1,1,no,mediator,yes,charged weak boson
+Z boson,gauge boson,1,0,no,mediator,no,neutral weak boson
+Higgs boson,scalar boson,0,0,no,indirect,no,scalar excitation of Higgs field

@@ -1,0 +1,10 @@
+particle,sector,generation,mass_gev,charge_e,notes
+electron,charged lepton,1,0.000511,-1,illustrative charged lepton mass
+muon,charged lepton,2,0.10566,-1,illustrative charged lepton mass
+tau,charged lepton,3,1.77686,-1,illustrative charged lepton mass
+up,quark,1,0.00216,0.6666667,illustrative quark mass scale
+down,quark,1,0.00467,-0.3333333,illustrative quark mass scale
+strange,quark,2,0.093,-0.3333333,illustrative quark mass scale
+charm,quark,2,1.27,0.6666667,illustrative quark mass scale
+bottom,quark,3,4.18,-0.3333333,illustrative quark mass scale
+top,quark,3,172.61,0.6666667,illustrative quark mass scale

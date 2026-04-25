@@ -1,0 +1,5 @@
+sector,gauge_group,mediators,interaction,notes
+strong,SU(3)_C,gluons,quantum chromodynamics,color gauge interaction
+electroweak,SU(2)_L x U(1)_Y,W bosons Z boson photon,weak and electromagnetic interactions,broken to electromagnetic U(1)
+electromagnetic,U(1)_EM,photon,electromagnetism,unbroken low-energy gauge symmetry
+higgs,scalar electroweak doublet,Higgs boson,electroweak symmetry breaking,gives mass parameters through coupling structure
