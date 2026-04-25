@@ -1,0 +1,7 @@
+constant,symbol,value,unit,notes
+speed of light,c,299792458,m s^-1,exact SI value
+meter,m,1,m,SI length unit
+second,s,1,s,SI time unit
+electron volt,eV,1.602176634e-19,J,energy conversion
+electron mass,m_e,9.1093837015e-31,kg,electron mass example
+proton mass,m_p,1.67262192369e-27,kg,proton mass example

@@ -1,0 +1,6 @@
+event,ct,x,y,z,notes
+A,0.0,0.0,0.0,0.0,origin event
+B,2.0,1.0,0.0,0.0,timelike-separated sample
+C,4.0,2.5,0.5,0.0,three-dimensional event sample
+D,6.0,3.0,0.0,0.25,spacetime event sample
+E,3.0,3.0,0.0,0.0,null-like sample in one dimension

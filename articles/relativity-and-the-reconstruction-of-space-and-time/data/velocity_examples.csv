@@ -1,0 +1,9 @@
+case_id,beta,notes
+V00,0.0,rest frame
+V01,0.1,low-speed relativistic correction
+V03,0.3,moderate relativistic correction
+V05,0.5,clear relativistic effects
+V08,0.8,strong relativistic effects
+V09,0.9,high gamma regime
+V099,0.99,near-light-speed regime
+V0995,0.995,extreme near-light-speed regime

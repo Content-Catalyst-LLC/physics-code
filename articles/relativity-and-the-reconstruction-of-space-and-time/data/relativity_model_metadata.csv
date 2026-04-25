@@ -1,0 +1,7 @@
+model_or_concept,primary_use,key_quantity,limitation
+Lorentz transformation,coordinate transformation between inertial frames,gamma,flat spacetime only
+spacetime interval,invariant event separation,Delta s squared,special relativity without curvature
+velocity composition,frame-aware velocity transformation,beta_prime,collinear form in article examples
+rapidity,additive boost parameter,eta,most direct for collinear boosts
+relativistic Doppler shift,frequency transformation,Doppler factor,line-of-sight form in article examples
+energy momentum relation,relativistic particle kinematics,E^2 - p^2 c^2,no quantum field dynamics included
