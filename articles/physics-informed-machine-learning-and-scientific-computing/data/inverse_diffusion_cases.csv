@@ -1,0 +1,4 @@
+case_id,true_diffusion,n_x,n_t,noise_sd,seed,notes
+inverse_diffusion_baseline,0.1,51,51,0.005,42,synthetic inverse diffusion parameter dataset
+inverse_diffusion_noisier,0.1,51,51,0.02,101,noisier inverse diffusion scaffold
+inverse_diffusion_highD,0.25,51,51,0.005,202,higher true diffusion coefficient

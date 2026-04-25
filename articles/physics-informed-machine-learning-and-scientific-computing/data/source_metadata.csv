@@ -1,0 +1,9 @@
+source,organization,primary_role,url
+Raissi Perdikaris Karniadakis PINN,Journal of Computational Physics,foundational physics-informed neural networks paper,https://www.sciencedirect.com/science/article/pii/S0021999118307125
+Karniadakis et al Physics-informed ML,Nature Reviews Physics,broad review of physics-informed machine learning capabilities limitations and applications,https://www.nature.com/articles/s42254-021-00314-5
+Cuomo et al Scientific ML through PINNs,Journal of Scientific Computing,review of PINNs and variants,https://link.springer.com/article/10.1007/s10915-022-01939-z
+Lu et al DeepONet,Nature Machine Intelligence,operator learning through DeepONet,https://www.osti.gov/biblio/2281727
+MITx Computational Data Science in Physics III,MITx Online,course including physics-informed machine learning and simulation-based inference,https://mitxonline.mit.edu/courses/course-v1%3AMITxT%2B8.S50.3x/
+MIT Scientific Machine Learning Course,MIT/SciML,course mixing HPC numerical analysis and machine learning,https://book.sciml.ai/course/
+SciML Docs,SciML,open-source scientific machine learning documentation,https://docs.sciml.ai/
+SciML Neural ODE Docs,SciML,neural ordinary differential equation examples,https://docs.sciml.ai/DiffEqFlux/stable/examples/neural_ode/

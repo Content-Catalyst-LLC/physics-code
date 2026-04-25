@@ -1,0 +1,4 @@
+case_id,n_functions,n_x,n_t,diffusion,seed,notes
+toy_heat_operator,20,64,50,0.1,42,generate initial-condition to heat-solution operator dataset
+toy_heat_operator_small,8,64,50,0.1,101,smaller operator-learning dataset
+toy_heat_operator_highD,20,64,50,0.25,202,higher diffusion operator-learning dataset

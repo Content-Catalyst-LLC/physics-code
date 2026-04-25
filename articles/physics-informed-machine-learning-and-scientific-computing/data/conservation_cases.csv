@@ -1,0 +1,3 @@
+case_id,n_grid,velocity,time_step,n_steps,notes
+advection_mass_check,101,1.0,0.002,200,simple advection mass conservation diagnostic scaffold
+coarse_advection_mass_check,51,1.0,0.004,100,coarser advection mass check

@@ -1,0 +1,4 @@
+case_id,diffusion,n_x,n_t,notes
+baseline_heat_residual,0.1,101,101,manufactured heat-equation solution residual diagnostics
+coarse_grid_heat_residual,0.1,51,51,coarser grid residual diagnostics
+higher_diffusion_heat_residual,0.5,101,101,higher diffusion residual diagnostics
