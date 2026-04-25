@@ -1,0 +1,7 @@
+case_id,length_um,diffusion_coefficient_um2_s,dimension,notes
+small_molecule_cell,10,100,3,small molecule across a cell-scale distance
+protein_cytoplasm,10,10,3,protein-like diffusion across a cell
+membrane_protein,1,0.1,2,slow lateral membrane diffusion
+organelle_like_particle,10,0.01,3,large intracellular object
+tissue_scale,1000,10,3,diffusion across one millimeter
+subcellular_fast,1,100,3,small molecule across subcellular distance

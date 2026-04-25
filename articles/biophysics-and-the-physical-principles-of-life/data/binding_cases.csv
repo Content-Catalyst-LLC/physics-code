@@ -1,0 +1,4 @@
+case_id,kd_m,ligand_min_m,ligand_max_m,n_points,notes
+tight_binding,1.0e-9,1.0e-12,1.0e-6,121,nanomolar affinity
+moderate_binding,1.0e-6,1.0e-9,1.0e-3,121,micromolar affinity
+weak_binding,1.0e-3,1.0e-6,1.0,121,millimolar affinity

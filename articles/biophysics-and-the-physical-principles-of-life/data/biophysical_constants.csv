@@ -1,0 +1,9 @@
+constant_name,value,unit,notes
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+gas_constant,8.314462618,J mol^-1 K^-1,molar gas constant
+avogadro_constant,6.02214076e23,mol^-1,exact SI value
+faraday_constant,96485.33212,C mol^-1,electric charge per mole of monovalent ions
+elementary_charge,1.602176634e-19,C,exact SI value
+room_temperature,298.15,K,room temperature reference
+body_temperature,310.15,K,human body temperature approximate
+water_viscosity_25c,0.00089,Pa s,approximate dynamic viscosity of water near 25 C

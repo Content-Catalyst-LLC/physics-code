@@ -1,0 +1,9 @@
+model_or_concept,primary_use,key_quantity,limitation
+diffusion_timescale,transport across biological distances,t,scaling approximation without boundaries
+brownian_motion,stochastic molecular motion,MSD,ideal homogeneous diffusion model
+binding_occupancy,ligand receptor binding,theta,single-site equilibrium model
+nernst_potential,single-ion equilibrium voltage,E,ignores multiple ions and active transport
+michaelis_menten,enzyme rate saturation,v,standard assumptions and steady-state approximation
+motor_stepping,stochastic motor motion,position,toy model without force-velocity coupling
+biomechanics_summary,stress strain stiffness,sigma and epsilon,simple linearized mechanics
+membrane_capacitance,charge storage,C,ideal parallel-plate approximation

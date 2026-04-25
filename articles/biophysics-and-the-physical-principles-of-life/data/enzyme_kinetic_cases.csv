@@ -1,0 +1,4 @@
+case_id,vmax_uM_s,km_uM,substrate_min_uM,substrate_max_uM,n_points,notes
+high_affinity_enzyme,100,5,0,100,101,low KM case
+moderate_affinity_enzyme,100,50,0,500,101,moderate KM case
+low_affinity_enzyme,100,500,0,5000,101,high KM case

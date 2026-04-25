@@ -1,0 +1,6 @@
+case_id,ion,z,c_out_mM,c_in_mM,temperature_k,notes
+potassium_neuron,K,1,5,140,310.15,typical potassium gradient direction
+sodium_neuron,Na,1,145,12,310.15,typical sodium gradient direction
+chloride_neuron,Cl,-1,110,10,310.15,chloride gradient example
+calcium_cell,Ca,2,1.2,0.0001,310.15,strong calcium gradient example
+proton_mitochondrial,H,1,0.0001,0.001,310.15,illustrative proton gradient

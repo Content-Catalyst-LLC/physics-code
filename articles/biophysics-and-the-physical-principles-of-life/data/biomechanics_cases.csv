@@ -1,0 +1,4 @@
+case_id,force_n,area_m2,delta_length_m,original_length_m,stiffness_n_m,notes
+single_molecule,1.0e-12,1.0e-18,1.0e-9,1.0e-6,1.0e-3,piconewton molecular force scale
+cell_adhesion,1.0e-9,1.0e-12,1.0e-6,1.0e-5,1.0e-3,nanonewton cellular force scale
+soft_tissue,1.0,1.0e-4,1.0e-3,1.0e-2,1000,macroscopic soft-tissue example

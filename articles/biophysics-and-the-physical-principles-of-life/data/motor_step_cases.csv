@@ -1,0 +1,4 @@
+case_id,step_size_nm,forward_rate_s,backward_rate_s,n_steps,time_step_s,notes
+kinesin_like,8,100,5,10000,0.001,illustrative kinesin-like stepping
+slow_motor,8,20,2,10000,0.001,slower motor case
+high_load_motor,8,40,20,10000,0.001,increased backward stepping under load
