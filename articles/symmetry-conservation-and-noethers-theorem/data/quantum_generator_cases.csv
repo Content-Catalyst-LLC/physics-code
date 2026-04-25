@@ -1,0 +1,6 @@
+case_id,transformation,generator,operator_expression,notes
+time_translation,time evolution,Hamiltonian,U(t)=exp(-i H t / hbar),Hamiltonian generates time translation
+space_translation,spatial shift,momentum,U(a)=exp(-i a p / hbar),momentum generates spatial translation
+rotation,rotation,angular momentum,U(theta)=exp(-i theta J / hbar),angular momentum generates rotations
+phase_rotation,global phase,number or charge,U(alpha)=exp(-i alpha N),number or charge generates phase transformation depending on convention
+spin_rotation,spin rotation,spin operator,U(theta)=exp(-i theta S / hbar),spin transforms under rotation group representations

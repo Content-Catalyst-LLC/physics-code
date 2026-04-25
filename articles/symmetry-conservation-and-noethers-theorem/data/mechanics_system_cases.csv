@@ -1,0 +1,6 @@
+case_id,system,lagrangian_description,symmetry,expected_conserved_quantity,notes
+free_particle,free particle,L = 1/2 m v^2,time and space translation,energy and momentum,homogeneous space and time
+harmonic_oscillator,one-dimensional harmonic oscillator,L = 1/2 m qdot^2 - 1/2 k q^2,time translation,energy,explicitly time-independent Lagrangian
+central_force,central inverse-square force,L = 1/2 m rdot^2 - V(r),rotation,angular momentum,central potential is rotationally invariant
+uniform_gravity,particle in constant gravitational field,L = 1/2 m v^2 - m g z,horizontal translation,horizontal momentum,vertical translation broken by potential
+time_driven_oscillator,driven oscillator,L has explicit time-dependent force,time translation broken,energy not conserved,external drive supplies or removes energy

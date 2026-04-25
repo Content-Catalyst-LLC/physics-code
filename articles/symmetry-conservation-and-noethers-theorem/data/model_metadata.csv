@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+symmetry_conservation_map,conceptual architecture,associated quantity,not a proof
+central_force_simulation,angular momentum diagnostic,Lz,numerical integration error remains
+harmonic_oscillator_energy,energy conservation diagnostic,H,ideal undamped oscillator only
+symbolic_noether_charge,simple symbolic derivation,Q,limited to simple Lagrangians
+field_theory_current,Noether current illustration,j_mu,not a full field-theory engine
+quantum_generators,operator-generator connection,commutators,finite-dimensional teaching matrices
+sql_metadata,reproducibility,relations and sources,requires disciplined data entry

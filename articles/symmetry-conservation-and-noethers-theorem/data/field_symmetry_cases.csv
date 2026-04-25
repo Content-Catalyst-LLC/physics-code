@@ -1,0 +1,6 @@
+case_id,field_type,symmetry,current_or_identity,notes
+real_scalar_translation,real scalar field,spacetime translation,stress-energy tensor,translation invariance gives energy-momentum current
+complex_scalar_u1,complex scalar field,global U(1),phase current,global phase invariance gives conserved charge
+dirac_u1,Dirac field,global U(1),Dirac current,charge conservation in relativistic quantum field theory
+electromagnetic_gauge,electromagnetic field,local U(1) gauge,Noether identity and constraint,gauge redundancy rather than ordinary global charge
+yang_mills_gauge,non-Abelian gauge field,local gauge symmetry,Noether identities and constraints,structure of Standard Model interactions

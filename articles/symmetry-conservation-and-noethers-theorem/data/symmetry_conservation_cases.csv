@@ -1,0 +1,8 @@
+case_id,symmetry,transformation_example,associated_quantity,theorem_context,physical_interpretation
+time_translation,time translation,t -> t + epsilon,energy,Noether first theorem,laws do not depend on absolute time
+space_translation,space translation,x -> x + epsilon,linear momentum,Noether first theorem,laws do not depend on absolute position
+rotation,rotation,r -> R(theta) r,angular momentum,Noether first theorem,laws do not depend on absolute orientation
+lorentz_invariance,Lorentz transformation,x_mu -> Lambda_mu_nu x_nu,energy-momentum tensor and relativistic invariants,Noether first theorem,spacetime symmetry of special relativity
+global_phase_u1,global U(1) phase,psi -> exp(i alpha) psi,charge or particle number,Noether first theorem,phase invariance gives conserved current
+internal_su2,internal SU(2),field multiplet transforms under SU(2),isospin-like charges,Noether first theorem,internal symmetry organizes fields and multiplets
+gauge_redundancy,local gauge transformation,A_mu -> A_mu + partial_mu Lambda,constraints and Noether identities,Noether second theorem,local redundancy gives identities among equations
