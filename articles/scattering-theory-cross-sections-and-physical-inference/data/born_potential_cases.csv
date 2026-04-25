@@ -1,0 +1,5 @@
+case_id,potential_strength,potential_range,mass,hbar,q_min,q_max,n_points,notes
+weak_gaussian,1.0,1.0,1.0,1.0,0.0,5.0,120,dimensionless weak Gaussian potential
+short_range,1.0,0.5,1.0,1.0,0.0,5.0,120,shorter range potential
+long_range,1.0,2.0,1.0,1.0,0.0,5.0,120,longer range potential
+stronger_potential,2.0,1.0,1.0,1.0,0.0,5.0,120,stronger potential scaffold

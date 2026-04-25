@@ -1,0 +1,5 @@
+case_id,k,l_max,phase_shift_scale,notes
+low_energy,0.5,6,0.4,low energy partial-wave scaffold
+moderate_energy,1.0,10,0.5,moderate energy partial-wave scaffold
+higher_energy,2.0,20,0.6,higher energy more partial waves
+weak_phase,1.0,10,0.2,weaker phase shifts

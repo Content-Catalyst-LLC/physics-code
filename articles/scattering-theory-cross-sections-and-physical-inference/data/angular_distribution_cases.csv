@@ -1,0 +1,6 @@
+case_id,sigma_0,alpha,n_grid,notes
+isotropic,1.0,0.0,20000,isotropic angular distribution
+mild_anisotropy,1.0,0.5,20000,moderate cos squared anisotropy
+strong_anisotropy,1.0,1.0,20000,stronger angular anisotropy
+larger_scale,2.0,1.0,20000,larger normalization
+forward_weighted,0.5,2.0,20000,larger angular coefficient

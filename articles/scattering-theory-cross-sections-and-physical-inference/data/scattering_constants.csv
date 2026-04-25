@@ -1,0 +1,11 @@
+constant_name,value,unit,notes
+h,6.62607015e-34,J s,Planck constant exact SI
+hbar,1.054571817e-34,J s,reduced Planck constant
+electron_charge,1.602176634e-19,C,elementary charge exact SI
+speed_of_light,299792458,m s^-1,exact SI
+barn,1e-28,m^2,standard cross-section unit
+millibarn,1e-31,m^2,10^-3 barn
+microbarn,1e-34,m^2,10^-6 barn
+nanobarn,1e-37,m^2,10^-9 barn
+picobarn,1e-40,m^2,10^-12 barn
+femtobarn,1e-43,m^2,10^-15 barn
