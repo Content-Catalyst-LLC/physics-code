@@ -1,0 +1,7 @@
+model_or_concept,primary_use,key_quantity,limitation
+two-state system,illustrate Boltzmann weighting and finite-size fluctuations,excited-state probability,no interactions
+macrostate distribution,show multiplicity and typicality,W(n),simple independent constituents
+canonical ensemble,thermal weighting at fixed temperature,Z,requires equilibrium assumptions
+Monte Carlo sampling,approximate distribution through repeated draws,sample statistics,requires convergence diagnostics
+Ising scaffold,illustrate order parameter and collective behavior,magnetization,toy implementation only
+fluctuation scaling,show relative fluctuations shrink with size,sd/mean,model-dependent scaling

@@ -1,0 +1,6 @@
+constant,symbol,value,unit,notes
+Boltzmann constant,k_B,1.380649e-23,J K^-1,exact SI value
+Avogadro constant,N_A,6.02214076e23,mol^-1,exact SI value
+gas constant,R,8.31446261815324,J mol^-1 K^-1,derived from N_A k_B
+electron volt,eV,1.602176634e-19,J,exact energy conversion
+room temperature,T_room,300,K,article example temperature

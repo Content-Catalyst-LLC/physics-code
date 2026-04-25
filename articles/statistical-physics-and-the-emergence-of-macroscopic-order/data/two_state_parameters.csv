@@ -1,0 +1,7 @@
+case_id,N,temperature_k,excitation_energy_j,notes
+small_10,10,300,2e-21,small finite system
+medium_50,50,300,2e-21,moderate finite system
+large_200,200,300,2e-21,larger finite system
+large_1000,1000,300,2e-21,thermodynamic-style sharp distribution
+hot_100,100,600,2e-21,higher-temperature comparison
+cold_100,100,150,2e-21,lower-temperature comparison

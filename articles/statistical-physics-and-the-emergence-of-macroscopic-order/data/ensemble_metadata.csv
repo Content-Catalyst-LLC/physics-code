@@ -1,0 +1,5 @@
+ensemble,fixed_quantities,allowed_to_fluctuate,typical_use
+microcanonical,E,N,V,observables within fixed energy shell,isolated systems
+canonical,T,N,V,energy,system in thermal contact with reservoir
+grand canonical,T,V,mu,energy and particle number,open systems exchanging particles and heat
+isothermal isobaric,T,N,P,energy and volume,constant pressure thermal systems
