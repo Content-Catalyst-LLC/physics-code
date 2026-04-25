@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+linear elasticity,small reversible deformation,E,limited to elastic small-strain regimes
+stress tensor diagnostics,stress-state decomposition,principal stresses,requires reliable stress tensor
+von Mises yield,ductile metal yield estimate,sigma_vM,not universal for brittle or anisotropic materials
+beam deflection,slender beam response,delta,requires Euler-Bernoulli assumptions
+viscoelastic relaxation,time-dependent stress response,E(t),simple spring-dashpot approximation
+fracture criterion,crack growth/failure estimate,K,geometry and crack assumptions matter
+continuum approximation,field representation,u sigma epsilon,breaks near microstructural scales

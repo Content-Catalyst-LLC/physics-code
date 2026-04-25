@@ -1,0 +1,5 @@
+case_id,instantaneous_modulus_mpa,relaxed_modulus_mpa,relaxation_time_s,applied_strain,notes
+fast_relaxation_polymer,100,20,5,0.02,stress relaxation scaffold
+slow_relaxation_polymer,100,20,60,0.02,slower relaxation scaffold
+soft_tissue_like,2.0,0.4,20,0.10,simplified tissue-like scaffold
+rubber_like,10,5,30,0.20,simplified rubber-like scaffold

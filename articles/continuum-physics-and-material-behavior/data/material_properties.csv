@@ -1,0 +1,8 @@
+material,density_kg_per_m3,youngs_modulus_gpa,poissons_ratio,yield_strength_mpa,notes
+structural_steel,7850,200,0.30,250,illustrative steel values
+aluminum_6061_t6,2700,69,0.33,276,illustrative aluminum alloy values
+titanium_ti64,4430,114,0.34,880,illustrative titanium alloy values
+glass_soda_lime,2500,70,0.22,,brittle material illustrative value
+rubber_like,1100,0.01,0.49,,nearly incompressible soft material example
+bone_cortical,1900,17,0.30,130,simplified biological material value
+epoxy,1200,3.0,0.35,70,polymer matrix illustrative value

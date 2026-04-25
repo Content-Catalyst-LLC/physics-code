@@ -1,0 +1,6 @@
+case_id,s11_mpa,s22_mpa,s33_mpa,s12_mpa,s13_mpa,s23_mpa,yield_strength_mpa,notes
+triaxial_shear_case,120,80,50,35,10,15,250,article tensor example
+hydrostatic_compression,-100,-100,-100,0,0,0,250,pure hydrostatic stress no deviatoric part
+plane_stress_plate,180,60,0,45,0,0,250,plane stress style example
+torsion_like,0,0,0,90,0,0,250,pure shear illustrative state
+high_yield_case,260,40,30,80,20,10,250,likely yielding example

@@ -1,0 +1,13 @@
+strain,stress_mpa,notes
+0.0000,0,illustrative uniaxial test
+0.0005,100,elastic region
+0.0010,201,elastic region
+0.0015,302,elastic region
+0.0020,401,elastic region
+0.0025,495,near yielding
+0.0030,560,post-yield
+0.0040,625,plastic hardening
+0.0060,690,plastic hardening
+0.0080,735,plastic hardening
+0.0100,760,plastic hardening
+0.0120,775,plastic hardening

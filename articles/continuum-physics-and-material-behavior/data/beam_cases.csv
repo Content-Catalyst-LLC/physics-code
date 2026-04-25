@@ -1,0 +1,5 @@
+case_id,youngs_modulus_gpa,second_moment_area_m4,length_m,point_load_n,notes
+steel_small_beam,200,8.0e-8,2.0,500,simply supported central point load scaffold
+aluminum_small_beam,69,8.0e-8,2.0,500,lower stiffness comparison
+steel_long_beam,200,8.0e-8,3.0,500,length sensitivity comparison
+steel_larger_section,200,3.0e-7,2.0,500,section stiffness comparison
