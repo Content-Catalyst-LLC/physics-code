@@ -1,0 +1,6 @@
+case_id,operator_type,algebra_relation,statistics,notes
+bosonic_ladder,creation_annihilation,[a a_dagger]=1,boson,harmonic oscillator ladder algebra
+bosonic_field,field_commutator,[phi(x) pi(y)]=i hbar delta(x-y),boson,canonical scalar field quantization
+fermionic_ladder,creation_annihilation,{c c_dagger}=1,fermion,fermionic mode algebra
+fermionic_field,field_anticommutator,{psi(x) psi_dagger(y)}=delta(x-y),fermion,canonical fermionic field algebra
+number_operator,N=a_dagger a,N|n>=n|n>,boson,occupation-number operator

@@ -1,0 +1,5 @@
+case_id,mass_natural,k_min,k_max,n_points,notes
+massless_scalar,0.0,0.0,5.0,101,massless dispersion omega equals absolute k
+light_scalar,0.5,0.0,5.0,101,massive scalar educational case
+unit_mass_scalar,1.0,0.0,5.0,101,unit mass natural units
+heavy_scalar,3.0,0.0,5.0,101,heavier scalar mode dispersion

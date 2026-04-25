@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+hbar,1.054571817e-34,J s,reduced Planck constant
+speed_of_light,299792458,m s^-1,exact SI value
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+electron_volt,1.602176634e-19,J,exact SI conversion
+electron_mass_energy_ev,510998.95,eV,electron rest energy approximate
+planck_constant,6.62607015e-34,J s,exact SI value

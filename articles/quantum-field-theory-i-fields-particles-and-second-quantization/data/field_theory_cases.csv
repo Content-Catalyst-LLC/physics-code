@@ -1,0 +1,6 @@
+case_id,field_type,lagrangian_density,key_equation,notes
+real_scalar_free,real scalar,1/2 partial_mu phi partial^mu phi - 1/2 m^2 phi^2,(Box + m^2) phi = 0,simplest free relativistic field
+complex_scalar_free,complex scalar,partial_mu phi_star partial^mu phi - m^2 phi_star phi,(Box + m^2) phi = 0,global U(1) symmetry and charge
+phi_four,real scalar interacting,1/2 partial phi partial phi - 1/2 m^2 phi^2 - lambda phi^4/4!,interacting Klein-Gordon equation,self-interacting scalar toy theory
+dirac_free,spinor,psi_bar(i gamma^mu partial_mu - m)psi,Dirac equation,relativistic spin one-half field
+electromagnetic_free,gauge field,-1/4 F_mu_nu F^mu_nu,Maxwell equations,free gauge field

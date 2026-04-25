@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+fock_ladder_operators,operator construction,a and a_dagger,truncation modifies exact commutator
+bose_mode_occupation,thermal mode population,n_bar,free bosonic mode assumption
+scalar_field_modes,free-field dispersion,omega_k,no interactions or curved spacetime
+propagator_grid,momentum-space propagator,Delta_F,pedagogical grid not contour integration
+fermionic_anticommutation,finite fermionic algebra,c and c_dagger,single-mode toy model
+wick_contraction_metadata,contraction bookkeeping,pairings,metadata not full symbolic theorem engine
+sql_metadata,reproducibility,relations and sources,requires disciplined updates

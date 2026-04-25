@@ -1,0 +1,5 @@
+case_id,fock_dimension,hbar,omega,notes
+small_truncation,4,1.0,1.0,small Fock truncation for teaching
+article_example,8,1.0,2.0,article body example
+larger_truncation,16,1.0,0.5,larger Fock truncation for diagnostics
+high_frequency,10,1.0,5.0,higher oscillator frequency
