@@ -1,0 +1,10 @@
+trial,length_m,period_s,temperature_c,release_angle_deg,notes
+1,0.50,1.420,22.1,5,small-angle manual timing
+2,0.50,1.418,22.1,5,small-angle manual timing
+3,0.50,1.424,22.2,5,small-angle manual timing
+4,0.75,1.739,22.2,5,small-angle manual timing
+5,0.75,1.735,22.3,5,small-angle manual timing
+6,0.75,1.742,22.3,5,small-angle manual timing
+7,1.00,2.006,22.4,5,small-angle manual timing
+8,1.00,2.010,22.4,5,small-angle manual timing
+9,1.00,2.004,22.5,5,small-angle manual timing
