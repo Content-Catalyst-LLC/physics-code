@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+circular orbit,estimate orbital speed and period,v_circ,assumes two-body circular motion
+escape speed,estimate threshold for unbound trajectory,v_esc,ignores atmosphere and propulsion losses
+vis-viva equation,compute speed along Keplerian orbit,v,ideal two-body conic orbit
+two-body integration,simulate Newtonian orbital motion,r and v,no perturbations by default
+Hohmann transfer,estimate two-burn coplanar transfer,delta-v,ideal impulsive burns and circular endpoints
+Kepler third law,relate period and semimajor axis,T^2/a^3,two-body approximation
+energy classification,classify bound or unbound orbit,epsilon,ideal Newtonian potential

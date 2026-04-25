@@ -1,0 +1,8 @@
+case_id,central_body,altitude_m,semimajor_axis_m,eccentricity,notes
+low_earth_400_km,Earth,400000,6771000,0,near-circular low Earth orbit
+low_earth_700_km,Earth,700000,7071000,0,article integration case
+medium_earth_20200_km,Earth,20200000,26571000,0,GNSS-like orbit comparison
+geostationary,Earth,35786000,42157000,0,geostationary-radius comparison
+high_earth_60000_km,Earth,60000000,66371000,0,high Earth orbit comparison
+lunar_low_100_km,Moon,100000,1837400,0,low lunar orbit comparison
+mars_low_400_km,Mars,400000,3789500,0,low Mars orbit comparison

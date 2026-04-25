@@ -1,0 +1,6 @@
+constant,symbol,value,unit,notes
+Newtonian constant of gravitation,G,6.67430e-11,m^3 kg^-1 s^-2,NIST CODATA value
+standard gravity,g0,9.80665,m s^-2,standard acceleration due to gravity
+astronomical unit,au,1.495978707e11,m,IAU-defined astronomical unit
+day,day,86400,s,mean solar day used as time conversion
+year_julian,yr,31557600,s,Julian year of 365.25 days

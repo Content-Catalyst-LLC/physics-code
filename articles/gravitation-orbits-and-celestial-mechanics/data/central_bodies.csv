@@ -1,0 +1,6 @@
+body,mu_m3_per_s2,radius_m,mass_kg,notes
+Earth,3.986004418e14,6.371e6,5.9722e24,standard Earth examples
+Moon,4.9048695e12,1.7374e6,7.342e22,lunar examples
+Sun,1.32712440018e20,6.9634e8,1.9885e30,solar-system examples
+Mars,4.282837e13,3.3895e6,6.4171e23,Mars orbit examples
+Jupiter,1.26686534e17,6.9911e7,1.8982e27,giant planet examples

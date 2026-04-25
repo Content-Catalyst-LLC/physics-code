@@ -1,0 +1,6 @@
+case_id,central_body,r1_m,r2_m,notes
+leo_to_geostationary,Earth,6771000,42157000,low Earth orbit to geostationary radius
+leo_to_medium_earth,Earth,6771000,26571000,low Earth orbit to medium Earth orbit
+earth_orbit_inner_to_outer,Sun,1.495978707e11,2.279392e11,Earth-like solar orbit to Mars-like solar orbit
+moon_low_to_high,Moon,1837400,5000000,low lunar orbit to higher lunar orbit
+mars_low_to_high,Mars,3789500,10000000,low Mars orbit to higher Mars orbit
