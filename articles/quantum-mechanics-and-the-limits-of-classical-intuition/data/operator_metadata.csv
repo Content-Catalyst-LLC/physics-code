@@ -1,0 +1,6 @@
+operator,symbol,coordinate_representation,physical_quantity,notes
+position,x_hat,x,position,multiplication by x
+momentum,p_hat,-i hbar d/dx,momentum,derivative operator
+hamiltonian,H_hat,-hbar^2/(2m) d2/dx2 + V(x),energy,governs time evolution
+identity,I,identity,state preservation,operator identity
+commutator_x_p,[x_hat,p_hat],i hbar,noncommutation,source of uncertainty relation

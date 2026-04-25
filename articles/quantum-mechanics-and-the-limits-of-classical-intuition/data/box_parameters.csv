@@ -1,0 +1,6 @@
+parameter,value,unit,notes
+box_length_m,1.0e-9,m,one nanometer infinite square well
+electron_mass_kg,9.1093837015e-31,kg,electron mass
+hbar_j_s,1.054571817e-34,J s,reduced Planck constant
+joule_per_ev,1.602176634e-19,J,energy conversion
+n_grid,2000,count,numerical grid size for article examples
