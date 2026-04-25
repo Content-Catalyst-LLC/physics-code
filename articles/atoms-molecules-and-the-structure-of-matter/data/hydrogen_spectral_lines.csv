@@ -1,0 +1,5 @@
+line,wavelength_nm,series,initial_n,final_n,notes
+H_alpha,656.3,Balmer,3,2,illustrative Balmer line
+H_beta,486.1,Balmer,4,2,illustrative Balmer line
+H_gamma,434.0,Balmer,5,2,illustrative Balmer line
+H_delta,410.2,Balmer,6,2,illustrative Balmer line

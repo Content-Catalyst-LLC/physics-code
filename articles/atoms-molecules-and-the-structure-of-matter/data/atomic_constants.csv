@@ -1,0 +1,7 @@
+constant,symbol,value,unit,notes
+Planck constant,h,6.62607015e-34,J s,exact SI value
+speed of light,c,299792458,m s^-1,exact SI value
+elementary charge,e,1.602176634e-19,C,exact SI value
+Bohr energy scale,E_H,13.6,eV,introductory hydrogen energy scale
+nanometer,nm,1e-9,m,length conversion
+electron volt,eV,1.602176634e-19,J,energy conversion

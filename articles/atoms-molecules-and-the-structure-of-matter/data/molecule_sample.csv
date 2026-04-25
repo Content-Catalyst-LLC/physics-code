@@ -1,0 +1,8 @@
+molecule,formula,atoms,geometry,polarity,notes
+hydrogen,H2,2,linear,nonpolar,simplest neutral diatomic molecule
+water,H2O,3,bent,polar,important bent molecule
+carbon dioxide,CO2,3,linear,nonpolar,polar bonds cancel by symmetry
+ammonia,NH3,4,trigonal pyramidal,polar,lone pair affects geometry
+methane,CH4,5,tetrahedral,nonpolar,symmetric covalent molecule
+oxygen,O2,2,linear,nonpolar,diatomic molecule
+nitrogen,N2,2,linear,nonpolar,diatomic molecule
