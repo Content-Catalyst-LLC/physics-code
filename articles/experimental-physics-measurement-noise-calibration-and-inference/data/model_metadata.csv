@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+linear_calibration_curve,calibration fitting,slope and intercept,may fail under nonlinearity or extrapolation
+noise_snr_simulation,signal detection,SNR,assumes known clean signal in scaffold
+uncertainty_propagation,measurement uncertainty,u_y,linear approximation may fail under strong nonlinearity
+monte_carlo_uncertainty,nonlinear uncertainty propagation,output distribution,depends on input distribution assumptions
+fourier_noise_diagnostics,frequency-domain noise analysis,power spectrum,requires sampling and stationarity assumptions
+bayesian_measurement_update,parameter inference,posterior mean and sd,depends on likelihood and prior assumptions
+sql_metadata,reproducibility,provenance and assumptions,requires disciplined updates

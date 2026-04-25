@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+elementary_charge,1.602176634e-19,C,exact SI value
+speed_of_light,299792458,m s^-1,exact SI value
+planck_constant,6.62607015e-34,J s,exact SI value
+standard_gravity,9.80665,m s^-2,conventional standard gravity
+reference_temperature,293.15,K,common room-temperature reference 20 C

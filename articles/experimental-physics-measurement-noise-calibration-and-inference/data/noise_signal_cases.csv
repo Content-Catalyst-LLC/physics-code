@@ -1,0 +1,5 @@
+case_id,n_samples,sampling_rate_hz,signal_frequency_hz,signal_amplitude_v,noise_standard_deviation_v,random_seed,notes
+article_demo,2000,1000,25,2.0,0.25,42,article body signal example
+low_snr,2000,1000,25,0.5,0.5,101,low signal-to-noise example
+high_snr,2000,1000,25,2.0,0.05,202,high signal-to-noise example
+slow_signal,4000,1000,5,1.0,0.2,303,low-frequency signal example

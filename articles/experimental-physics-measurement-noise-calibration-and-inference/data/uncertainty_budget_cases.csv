@@ -1,0 +1,6 @@
+case_id,quantity,estimate,standard_uncertainty,unit,uncertainty_type,distribution,notes
+resistance_voltage,voltage,10.00,0.02,V,Type B,normal,voltmeter calibration uncertainty
+resistance_current,current,2.000,0.005,A,Type B,normal,ammeter calibration uncertainty
+length_repeatability,length_repeatability,1.000,0.002,m,Type A,normal,repeated measurement standard uncertainty
+length_resolution,length_resolution,1.000,0.00029,m,Type B,rectangular,resolution converted to standard uncertainty
+temperature_drift,temperature_correction,0.000,0.010,K,Type B,normal,environmental drift bound

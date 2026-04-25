@@ -1,0 +1,5 @@
+run_id,experiment_name,instrument_id,operator_placeholder,date,temperature_c,humidity_percent,analysis_version,notes
+RUN_001,calibration_curve,DMM_001,operator_a,2026-04-25,20.2,42,v1.0,linear calibration demonstration
+RUN_002,noise_signal_demo,DAQ_001,operator_a,2026-04-25,20.3,43,v1.0,synthetic signal acquisition
+RUN_003,resistance_uncertainty,DMM_001,operator_a,2026-04-25,20.1,41,v1.0,uncertainty propagation example
+RUN_004,bayesian_update,DMM_001,operator_a,2026-04-25,20.2,42,v1.0,normal-normal measurement update
