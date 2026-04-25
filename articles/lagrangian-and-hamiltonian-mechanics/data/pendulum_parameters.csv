@@ -1,0 +1,6 @@
+case_id,mass_kg,length_m,gravity_m_per_s2,theta0_rad,p0_kg_m2_per_s,time_step_s,n_steps,notes
+small_angle,1.0,1.0,9.80665,0.2,0.0,0.01,5000,small oscillation example
+moderate_angle,1.0,1.0,9.80665,1.0,0.0,0.01,5000,article base case
+near_separatrix,1.0,1.0,9.80665,3.0,0.0,0.005,8000,near separatrix style initial angle
+rotational,1.0,1.0,9.80665,0.0,8.0,0.005,8000,rotational high momentum case
+long_pendulum,1.0,2.0,9.80665,1.0,0.0,0.01,5000,length comparison

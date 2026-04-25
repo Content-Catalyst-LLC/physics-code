@@ -1,0 +1,5 @@
+symmetry,invariance,conserved_quantity,notes
+time_translation,laws unchanged under shift of time origin,energy,Hamiltonian often conserved when no explicit time dependence
+space_translation,laws unchanged under shift of spatial origin,linear_momentum,associated with cyclic position coordinate
+rotation,laws unchanged under spatial rotation,angular_momentum,associated with cyclic angular coordinate
+phase_space_canonical_transform,Hamiltonian form preserved,symplectic_structure,canonical transformations preserve Hamilton equations

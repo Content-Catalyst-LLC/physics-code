@@ -1,0 +1,6 @@
+case_id,theta_rad,p_theta_kg_m2_per_s,notes
+low_energy_oscillation,0.2,0.0,small oscillation
+moderate_oscillation,1.0,0.0,moderate oscillation
+near_top,3.0,0.0,near unstable equilibrium
+high_momentum_rotation,0.0,8.0,rotational trajectory
+negative_momentum,-1.0,-2.0,opposite direction comparison

@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+Lagrangian mechanics,derive motion from action,L,requires appropriate coordinates and variational assumptions
+Hamiltonian mechanics,phase-space evolution,H,Legendre transform may be singular for constrained systems
+symplectic Euler,structure-preserving integration,energy behavior,first-order method
+Poisson bracket,algebraic dynamics,{A,H},requires canonical coordinates
+normal modes,linearized coupled oscillations,omega,small oscillation approximation
+cyclic coordinate,identify conserved momentum,p_i,requires coordinate absent from L
+Noether theorem,connect symmetry and conservation,conserved current or charge,requires continuous symmetry of action

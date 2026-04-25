@@ -1,0 +1,5 @@
+case_id,mass1_kg,mass2_kg,k1_n_per_m,k2_n_per_m,k_coupling_n_per_m,notes
+symmetric_coupled_oscillators,1.0,1.0,10.0,10.0,2.0,two identical masses with coupling
+asymmetric_masses,1.0,2.0,10.0,10.0,2.0,different masses
+strong_coupling,1.0,1.0,10.0,10.0,8.0,strong coupling comparison
+soft_second_spring,1.0,1.0,10.0,5.0,2.0,asymmetric stiffness
