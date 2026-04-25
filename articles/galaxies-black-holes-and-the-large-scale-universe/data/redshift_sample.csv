@@ -1,0 +1,9 @@
+object_id,object_type,redshift,notes
+G1,nearby galaxy,0.02,low-redshift sample
+G2,nearby galaxy,0.05,low-redshift sample
+G3,galaxy,0.10,intermediate local survey sample
+G4,galaxy,0.25,moderate redshift
+G5,galaxy,0.50,cosmic history sample
+Q1,quasar,1.20,distant active nucleus
+Q2,quasar,2.00,distant active nucleus
+Q3,quasar,3.00,high-redshift quasar-style sample

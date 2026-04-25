@@ -1,0 +1,9 @@
+object_id,environment_class,membership_probability,notes
+G1,void,0.72,low-density environment
+G2,sheet,0.68,sheet-like environment
+G3,filament,0.81,filamentary environment
+G4,knot,0.76,cluster-like intersection
+G5,filament,0.64,filamentary environment
+Q1,knot,0.59,active nucleus near dense environment
+Q2,sheet,0.55,uncertain sheet environment
+Q3,filament,0.62,distant tracer environment

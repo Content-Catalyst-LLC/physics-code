@@ -1,0 +1,6 @@
+object,black_hole_mass_solar,notes
+Sagittarius A* scale,4.0e6,Milky Way central black-hole scale
+M87* scale,6.5e9,Event Horizon Telescope black-hole scale
+Quasar-scale example,1.0e9,illustrative active-galactic-nucleus scale
+Intermediate example,1.0e5,illustrative intermediate-mass scale
+Stellar example,10,illustrative stellar-mass scale

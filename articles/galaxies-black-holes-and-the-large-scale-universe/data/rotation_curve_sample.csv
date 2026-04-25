@@ -1,0 +1,7 @@
+radius_kpc,observed_velocity_km_s,luminous_model_velocity_km_s,notes
+2,210,245,inner luminous-dominated region
+5,220,220,reference radius
+10,220,156,outer disk
+15,220,127,outer disk
+20,220,110,outer disk
+30,220,90,extended halo region
