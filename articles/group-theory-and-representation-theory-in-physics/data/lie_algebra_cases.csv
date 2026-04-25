@@ -1,0 +1,7 @@
+algebra_id,generator_a,generator_b,commutator_result,structure_constant_notes
+su2,Jx,Jy,i Jz,epsilon_xyz equals 1
+su2,Jy,Jz,i Jx,cyclic angular momentum commutator
+su2,Jz,Jx,i Jy,cyclic angular momentum commutator
+lorentz,Jx,Jy,i Jz,rotation subalgebra
+lorentz,Jx,Ky,i Kz,rotation boost commutator
+lorentz,Kx,Ky,-i Jz,boost boost commutator

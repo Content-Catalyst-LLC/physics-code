@@ -1,0 +1,6 @@
+case_id,j,hbar_convention,notes
+spin_half,0.5,1.0,spin one-half SU2 representation
+spin_one,1.0,1.0,spin one representation
+spin_three_half,1.5,1.0,spin three-halves representation
+spin_two,2.0,1.0,spin two representation
+spin_three,3.0,1.0,spin three representation

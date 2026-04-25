@@ -1,0 +1,7 @@
+point_group,order_value,example_systems,common_physics_uses,notes
+C3,3,threefold rotational systems,orbital and vibrational classification,cyclic point symmetry
+C2v,4,bent molecules and anisotropic systems,infrared and Raman selection rules,common molecular point group
+D3h,12,planar trigonal molecules,vibrational modes and electronic states,includes horizontal reflection
+Oh,48,cubic crystals and octahedral molecules,crystal field splitting and cubic band degeneracy,high-symmetry cubic group
+Td,24,tetrahedral semiconductors and molecules,band structure and vibrational classification,zinc blende scaffold
+D4h,16,tetragonal crystals,crystal field and superconducting order parameters,layered-material symmetry

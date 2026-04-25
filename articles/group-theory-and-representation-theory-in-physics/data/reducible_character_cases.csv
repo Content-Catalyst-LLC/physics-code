@@ -1,0 +1,5 @@
+case_id,group_id,chi_e,chi_r,chi_r2,notes
+regular_C3,C3,3,0,0,regular representation of C3
+two_plus_one,C3,2,1,1,trivial plus repeated structure example
+single_trivial,C3,1,1,1,trivial representation only
+complex_pair,C3,2,-1,-1,sum of nontrivial complex conjugate irreps

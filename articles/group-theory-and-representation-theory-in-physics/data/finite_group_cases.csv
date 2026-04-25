@@ -1,0 +1,5 @@
+group_id,group_name,order_value,abelian,generators,relations,notes
+C3,cyclic group C3,3,true,r,r^3=e,simplest nontrivial cyclic rotation group
+C4,cyclic group C4,4,true,r,r^4=e,fourfold rotational symmetry scaffold
+S3,symmetric group S3,6,false,s t,"s^2=e; t^3=e; sts=t^-1",permutation group of three objects
+D4,dihedral group D4,8,false,r s,"r^4=e; s^2=e; srs=r^-1",symmetry group of square

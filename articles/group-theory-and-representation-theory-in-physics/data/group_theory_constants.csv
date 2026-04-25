@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+hbar,1.054571817e-34,J s,reduced Planck constant
+hbar_natural,1,dimensionless,hbar equals one convention for representation examples
+imaginary_unit,1,imaginary,used symbolically as i
+c3_order,3,dimensionless,order of cyclic group C3
+su2_spin_half_dimension,2,dimensionless,dimension of spin one-half representation
+so3_vector_dimension,3,dimensionless,dimension of ordinary vector representation

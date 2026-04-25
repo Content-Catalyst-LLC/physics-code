@@ -1,0 +1,9 @@
+model_or_concept,primary_use,key_quantity,limitation
+c3_character_orthogonality,finite group representation theory,character inner products,complex one-dimensional irreps only
+finite_group_decomposition,irreducible decomposition,multiplicity n_alpha,requires known character table
+angular_momentum_su2,Lie algebra representation,J matrices,dense matrices for small j
+representation_check,verify homomorphism,D(gh)-D(g)D(h),depends on correct multiplication table
+lie_algebra_commutators,commutator metadata,structure constants,metadata not full symbolic Lie package
+tensor_product_scaffold,composite representations,decomposition labels,limited to angular momentum examples
+point_group_metadata,symmetry classification,point group properties,not a full crystallographic database
+sql_metadata,reproducibility,groups irreps generators sources,requires disciplined updates

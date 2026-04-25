@@ -1,0 +1,4 @@
+irrep,e,r,r2,dimension,notes
+Gamma_0,1,1,1,1,trivial representation
+Gamma_1,1,omega,omega2,1,first complex representation
+Gamma_2,1,omega2,omega,1,complex conjugate representation
