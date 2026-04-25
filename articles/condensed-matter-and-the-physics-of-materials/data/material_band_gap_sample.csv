@@ -1,0 +1,8 @@
+material,formula,band_gap_ev,material_class_hint,notes
+Copper,Cu,0.0,metal,metallic conductor example
+Silicon,Si,1.12,semiconductor,canonical semiconductor example
+Germanium,Ge,0.66,semiconductor,small-gap semiconductor example
+Gallium arsenide,GaAs,1.42,semiconductor,compound semiconductor example
+Diamond,C,5.47,insulator,wide-gap material example
+Sodium chloride,NaCl,8.5,insulator,ionic insulator example
+Graphene, C,0.0,semimetal,zero-gap idealized example

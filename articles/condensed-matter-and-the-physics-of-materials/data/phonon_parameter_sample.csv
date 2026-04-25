@@ -1,0 +1,5 @@
+sample_id,spring_constant,mass,lattice_spacing,notes
+P1,1.0,1.0,1.0,baseline arbitrary-unit lattice
+P2,2.0,1.0,1.0,stiffer lattice
+P3,1.0,2.0,1.0,heavier mass
+P4,1.0,1.0,0.5,smaller lattice spacing

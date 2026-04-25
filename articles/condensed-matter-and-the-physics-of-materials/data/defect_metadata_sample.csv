@@ -1,0 +1,7 @@
+defect_type,example,typical_effect,notes
+vacancy,missing lattice atom,scattering and diffusion pathway,important in ionic transport and diffusion
+interstitial,extra atom in lattice,local strain and electronic modification,can alter diffusion and strength
+substitutional impurity,dopant atom,carrier-density control,central in semiconductor doping
+dislocation,line defect,plastic deformation and strength,central to mechanical properties
+grain boundary,interface between grains,scattering and mechanical behavior,important in polycrystals
+surface defect,missing or modified surface atom,catalytic and optical behavior,surface-sensitive

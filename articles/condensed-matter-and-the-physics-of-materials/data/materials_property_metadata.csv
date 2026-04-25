@@ -1,0 +1,9 @@
+property,typical_unit,measurement_context,notes
+electrical_resistivity,ohm meter,transport measurement,temperature dependent
+electrical_conductivity,siemens per meter,transport measurement,inverse of resistivity for simple scalar case
+band_gap,electron volt,optical or electronic structure,depends on method and temperature
+thermal_conductivity,watt per meter kelvin,thermal transport,phonon and electron contributions
+heat_capacity,joule per kilogram kelvin,thermal measurement,temperature dependent
+magnetization,ampere per meter,magnetic measurement,field and temperature dependent
+carrier_density,per cubic meter,Hall or transport analysis,sign and mobility also matter
+mobility,square meter per volt second,transport analysis,depends on scattering

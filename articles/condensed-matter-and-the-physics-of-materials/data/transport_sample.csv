@@ -1,0 +1,17 @@
+temperature_k,material_class,base_resistivity,temperature_coefficient,activation_temperature,notes
+50,metal,1.0e-8,0.004,0,metal-like transport
+100,metal,1.0e-8,0.004,0,metal-like transport
+150,metal,1.0e-8,0.004,0,metal-like transport
+200,metal,1.0e-8,0.004,0,metal-like transport
+250,metal,1.0e-8,0.004,0,metal-like transport
+300,metal,1.0e-8,0.004,0,metal-like transport
+350,metal,1.0e-8,0.004,0,metal-like transport
+400,metal,1.0e-8,0.004,0,metal-like transport
+50,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+100,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+150,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+200,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+250,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+300,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+350,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
+400,semiconductor,1.0e-3,0,2000,semiconductor-like activated trend
