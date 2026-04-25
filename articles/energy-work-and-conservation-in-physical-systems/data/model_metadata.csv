@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+spring-mass oscillator,energy exchange between kinetic and elastic potential,total mechanical energy,ideal linear spring
+damped oscillator,mechanical energy decay under damping,total mechanical energy,simple velocity-proportional damping
+work-energy theorem,connect net work to kinetic-energy change,Delta K,requires careful force accounting
+energy landscape,identify turning points and accessible regions,E and U(x),conservative one-dimensional form
+force-displacement integration,compute work from measured force data,W,depends on measurement resolution
+power estimate,rate of energy transfer,P,requires time-resolved transfer information
+spring launch residuals,compare theoretical and measured final speed,residual speed or energy,illustrative dataset only

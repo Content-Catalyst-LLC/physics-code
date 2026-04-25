@@ -1,0 +1,7 @@
+case_id,mass_kg,spring_constant_n_per_m,amplitude_m,damping_kg_per_s,notes
+base_conservative,0.50,20.0,0.10,0.00,article base conservative oscillator
+light_mass,0.25,20.0,0.10,0.00,lower mass comparison
+stiff_spring,0.50,40.0,0.10,0.00,higher stiffness comparison
+small_amplitude,0.50,20.0,0.05,0.00,lower stored energy comparison
+damped_base,0.50,20.0,0.10,0.25,damped oscillator comparison
+high_damping,0.50,20.0,0.10,0.75,stronger damping comparison

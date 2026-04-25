@@ -1,0 +1,6 @@
+trial_id,mass_kg,spring_constant_n_per_m,compression_m,measured_speed_m_per_s,notes
+T01,0.50,20.0,0.10,0.63,illustrative spring launch trial
+T02,0.50,20.0,0.10,0.64,illustrative spring launch trial
+T03,0.50,20.0,0.10,0.62,illustrative spring launch trial
+T04,0.50,20.0,0.08,0.50,illustrative spring launch trial
+T05,0.50,20.0,0.12,0.75,illustrative spring launch trial

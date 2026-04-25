@@ -1,0 +1,7 @@
+point_id,displacement_m,force_n,notes
+1,0.00,0.0,initial point
+2,0.02,0.4,linear spring-style measurement
+3,0.04,0.8,linear spring-style measurement
+4,0.06,1.2,linear spring-style measurement
+5,0.08,1.6,linear spring-style measurement
+6,0.10,2.0,linear spring-style measurement

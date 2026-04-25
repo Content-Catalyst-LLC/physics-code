@@ -1,0 +1,8 @@
+constant,symbol,value,unit,notes
+standard gravity,g,9.80665,m s^-2,standard acceleration due to gravity
+joule,J,1,kg m^2 s^-2,SI unit of energy and work
+watt,W,1,J s^-1,SI unit of power
+newton,N,1,kg m s^-2,SI unit of force
+meter,m,1,m,SI unit of length
+kilogram,kg,1,kg,SI unit of mass
+second,s,1,s,SI unit of time
