@@ -1,0 +1,10 @@
+method_name,method_family,primary_use,key_risk
+explicit_euler,ODE integration,introductory first-order time stepping,large time-step error and instability
+runge_kutta_4,ODE integration,general accurate fixed-step integration,not structure-preserving by default
+adaptive_runge_kutta,ODE integration,error-controlled time integration,tolerance choices affect cost and results
+symplectic_euler,Hamiltonian integration,structure-aware long-time dynamics,first-order accuracy
+finite_difference,PDE approximation,grid-based derivative approximations,stability and grid-resolution dependence
+finite_volume,conservation law simulation,flux-conservative transport,numerical diffusion and reconstruction errors
+finite_element,PDE and variational problems,complex geometry and weak forms,mesh and formulation errors
+monte_carlo,stochastic simulation,uncertainty and high-dimensional integration,sampling error
+molecular_dynamics,particle simulation,microscopic dynamics,time-step and force-field limitations

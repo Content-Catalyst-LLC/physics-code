@@ -1,0 +1,5 @@
+case_id,length_m,n_grid,diffusivity_m2_per_s,time_step_s,expected_stability_limit,notes
+stable_101,1.0,101,0.001,0.0002,0.5,stable coarse grid
+stable_201,1.0,201,0.001,0.0002,0.5,stable article grid
+unstable_example,1.0,201,0.001,0.02,0.5,intentionally unstable if run directly
+fine_401,1.0,401,0.001,0.00005,0.5,fine stable grid

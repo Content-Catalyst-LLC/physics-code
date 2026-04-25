@@ -1,0 +1,11 @@
+item,category,question
+code_tests,verification,Does the code pass tests on known problems?
+unit_checks,verification,Are units documented and checked?
+grid_refinement,solution_verification,Does the solution converge under grid refinement?
+time_step_refinement,solution_verification,Does the result converge under smaller time steps?
+analytic_comparison,verification,Is there an analytic solution or limiting case for comparison?
+experimental_comparison,validation,Has the simulation been compared with relevant measurements?
+intended_use,validation,Is the validation domain aligned with the intended use?
+input_uncertainty,UQ,Are uncertain inputs represented with distributions or intervals?
+model_form_uncertainty,UQ,Are model limitations and missing physics documented?
+provenance,reproducibility,Can the simulation run be traced to code data and parameters?

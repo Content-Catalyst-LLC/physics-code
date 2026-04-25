@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+finite_difference_diffusion,teaching PDE simulation,stability_number,limited to simple grids and explicit stepping
+ode_solver_diagnostics,time integration and energy monitoring,total_energy,method choice affects long-time behavior
+monte_carlo_uncertainty,output uncertainty propagation,distribution of quantity of interest,requires input distributions
+convergence_diagnostics,grid refinement and error scaling,observed_order,requires reference or analytic solution
+verification_validation_uq,simulation credibility,evidence structure,can be resource intensive
+scientific_visualization,interpretation of simulation outputs,field or trajectory,can mislead without diagnostics
+simulation_metadata,reproducible computation,run provenance,requires disciplined data management

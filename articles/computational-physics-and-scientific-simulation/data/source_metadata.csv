@@ -1,0 +1,9 @@
+source,organization,primary_role,url
+MIT Introduction to Numerical Methods,MIT OpenCourseWare,numerical analysis accuracy efficiency stability conditioning,https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/
+MIT Computational Science and Engineering I,MIT OpenCourseWare,computational science numerical methods differential equations,https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/
+MIT Essential Numerical Methods,MIT OpenCourseWare,computational methods for physical problems ODEs PDEs conservation,https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/
+MIT Computational Methods of Scientific Programming,MIT OpenCourseWare,scientific programming research code testing and projects,https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/
+ASME VVUQ,ASME,verification validation and uncertainty quantification definitions,https://www.asme.org/codes-standards/publications-information/verification-validation-uncertainty
+NIST VVUQ CFD,NIST,verification validation and uncertainty quantification procedures,https://www.nist.gov/publications/summary-industrial-verification-validation-and-uncertainty-quantification-procedures
+NIST SI Guide,NIST,SI units and derived units,https://physics.nist.gov/cuu/pdf/sp811.pdf
+BIPM SI Brochure,BIPM,official SI unit framework,https://www.bipm.org/en/si-brochure-9

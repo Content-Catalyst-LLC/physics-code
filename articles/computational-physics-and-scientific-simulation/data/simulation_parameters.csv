@@ -1,0 +1,5 @@
+case_id,model_name,length_m,n_grid,diffusivity_m2_per_s,time_step_s,n_steps,notes
+stable_diffusion_base,diffusion_1d,1.0,201,0.001,0.0002,1200,base stable explicit diffusion case
+coarse_grid_diffusion,diffusion_1d,1.0,101,0.001,0.0002,1200,coarser grid comparison
+fine_grid_diffusion,diffusion_1d,1.0,401,0.001,0.00005,2400,finer grid comparison with smaller time step
+fast_diffusion,diffusion_1d,1.0,201,0.002,0.0001,1200,higher diffusivity stable case

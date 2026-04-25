@@ -1,0 +1,5 @@
+case_id,mean_speed_m_per_s,sd_speed_m_per_s,mean_angle_deg,sd_angle_deg,n_samples,gravity_m_per_s2,notes
+baseline_projectile,30.0,1.5,45.0,2.0,10000,9.80665,article Monte Carlo baseline
+higher_speed_projectile,45.0,2.5,42.0,3.0,10000,9.80665,higher speed example
+low_angle_projectile,30.0,1.5,30.0,2.0,10000,9.80665,lower launch angle comparison
+high_uncertainty_projectile,30.0,4.0,45.0,6.0,10000,9.80665,large uncertainty comparison
