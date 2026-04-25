@@ -1,0 +1,7 @@
+case_id,carrier_type,carrier_concentration_cm3,mobility_cm2_v_s,temperature_k,notes
+n_light_doping,n,1.0e14,1400,300,light n-type silicon-like case
+n_medium_doping,n,1.0e16,1000,300,moderate n-type case
+n_heavy_doping,n,1.0e18,250,300,heavily doped n-type case
+p_light_doping,p,1.0e14,450,300,light p-type case
+p_medium_doping,p,1.0e16,300,300,moderate p-type case
+p_heavy_doping,p,1.0e18,100,300,heavily doped p-type case

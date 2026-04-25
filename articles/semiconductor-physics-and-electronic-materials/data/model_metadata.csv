@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+intrinsic_carrier_concentration,thermal carriers in intrinsic semiconductor,ni,nondegenerate approximation and fixed material parameters
+conductivity_model,conductivity and resistivity,sigma,requires mobility model and carrier assumptions
+pn_junction_depletion,abrupt junction electrostatics,Vbi and W,depletion approximation
+ideal_diode_equation,current-voltage behavior,I,ignores series resistance leakage and breakdown
+mos_capacitance,oxide gate control,Cox,does not include interface traps or quantum effects
+mobility_model,transport sensitivity,mu,simplified empirical assumptions
+semiconductor_metadata,reproducibility,units and assumptions,requires disciplined documentation

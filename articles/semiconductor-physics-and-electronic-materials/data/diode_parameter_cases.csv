@@ -1,0 +1,5 @@
+case_id,saturation_current_a,ideality_factor,temperature_k,area_cm2,voltage_min_v,voltage_max_v,n_points,notes
+ideal_room_temperature,1.0e-12,1.0,300,1.0e-4,-0.5,0.8,132,article baseline
+recombination_diode,1.0e-12,2.0,300,1.0e-4,-0.5,0.8,132,higher ideality factor
+higher_temperature,1.0e-11,1.0,350,1.0e-4,-0.5,0.8,132,illustrative higher temperature and Is
+lower_saturation_current,1.0e-14,1.0,300,1.0e-4,-0.5,0.8,132,lower leakage baseline

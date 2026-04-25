@@ -1,0 +1,8 @@
+constant_name,value,unit,notes
+elementary_charge,1.602176634e-19,C,exact SI value
+boltzmann_constant,1.380649e-23,J K^-1,exact SI value
+vacuum_permittivity,8.8541878128e-12,F m^-1,electric constant
+silicon_relative_permittivity,11.7,dimensionless,illustrative silicon value
+silicon_dioxide_relative_permittivity,3.9,dimensionless,illustrative oxide value
+room_temperature,300,K,standard educational calculation temperature
+ev_to_joule,1.602176634e-19,J per eV,exact conversion

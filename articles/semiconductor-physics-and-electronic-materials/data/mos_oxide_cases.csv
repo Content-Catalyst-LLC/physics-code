@@ -1,0 +1,5 @@
+case_id,relative_permittivity,oxide_thickness_nm,notes
+sio2_10nm,3.9,10.0,classic silicon dioxide educational case
+sio2_2nm,3.9,2.0,thin oxide illustrative case
+highk_5nm,20.0,5.0,high-k dielectric illustrative case
+highk_2nm,20.0,2.0,thin high-k illustrative case

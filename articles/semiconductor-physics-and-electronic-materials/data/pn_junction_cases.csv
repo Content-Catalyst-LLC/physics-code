@@ -1,0 +1,6 @@
+case_id,acceptor_cm3,donor_cm3,intrinsic_cm3,relative_permittivity,temperature_k,applied_voltage_v,notes
+symmetric_moderate,1.0e16,1.0e16,1.0e10,11.7,300,0.0,symmetric abrupt junction
+asymmetric_p_heavy,1.0e18,1.0e16,1.0e10,11.7,300,0.0,p-side heavily doped
+reverse_bias,1.0e16,1.0e16,1.0e10,11.7,300,-5.0,reverse biased junction
+forward_bias,1.0e16,1.0e16,1.0e10,11.7,300,0.5,forward bias within depletion approximation limit
+wide_gap_low_ni,1.0e17,1.0e17,1.0e-2,9.7,300,0.0,wide-bandgap illustrative case

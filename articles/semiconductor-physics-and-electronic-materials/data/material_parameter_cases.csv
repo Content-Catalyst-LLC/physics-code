@@ -1,0 +1,6 @@
+material,band_gap_ev,nc_cm3,nv_cm3,electron_mobility_cm2_v_s,hole_mobility_cm2_v_s,relative_permittivity,notes
+silicon_300k,1.12,2.8e19,1.04e19,1400,450,11.7,illustrative silicon at room temperature
+germanium_300k,0.66,1.04e19,6.0e18,3900,1900,16.0,illustrative germanium
+gallium_arsenide_300k,1.42,4.7e17,7.0e18,8500,400,12.9,illustrative GaAs
+silicon_carbide_4h_300k,3.26,1.6e19,2.5e19,900,120,9.7,illustrative wide-bandgap SiC
+gallium_nitride_300k,3.4,2.3e18,4.6e19,1000,30,9.5,illustrative GaN
