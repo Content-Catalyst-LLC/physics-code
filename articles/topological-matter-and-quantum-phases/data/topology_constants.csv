@@ -1,0 +1,7 @@
+constant_name,value,unit,notes
+h,6.62607015e-34,J s,Planck constant exact SI
+hbar,1.054571817e-34,J s,reduced Planck constant
+electron_charge,1.602176634e-19,C,elementary charge exact SI
+conductance_quantum_e2_over_h,3.874045865e-5,S,e squared divided by h
+flux_quantum_h_over_e,4.135667696e-15,Wb,h divided by e
+superconducting_flux_quantum_h_over_2e,2.067833848e-15,Wb,h divided by 2e

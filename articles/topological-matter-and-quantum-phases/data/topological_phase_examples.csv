@@ -1,0 +1,9 @@
+phase_or_model,dimension,key_invariant,protecting_condition,signature
+integer quantum Hall state,2D,Chern number,charge conservation and bulk gap,quantized Hall conductance and chiral edge states
+fractional quantum Hall state,2D,topological order and filling fraction,strong interactions and magnetic field,fractional charge and anyons
+SSH chain,1D,winding number,chiral or sublattice symmetry,end modes in topological phase
+quantum spin Hall insulator,2D,Z2 invariant,time-reversal symmetry,helical edge states
+3D topological insulator,3D,Z2 invariants,time-reversal symmetry,surface Dirac states
+Kitaev chain,1D,Z2 Majorana invariant,particle-hole structure and gap,Majorana end modes
+topological superconductor,1D/2D/3D,symmetry-class invariant,superconducting gap and relevant symmetries,Majorana boundary or vortex modes
+topological crystalline insulator,2D/3D,crystalline symmetry invariant,mirror or spatial symmetry,symmetry-protected surface states

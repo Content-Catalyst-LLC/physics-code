@@ -1,0 +1,6 @@
+case_id,chemical_potential,hopping,pairing,notes
+topological_mu_zero,0.0,1.0,1.0,inside idealized topological regime
+topological_mu_one,1.0,1.0,0.5,inside |mu| less than 2t
+trivial_mu_large,3.0,1.0,0.5,outside |mu| less than 2t
+transition_mu_two,2.0,1.0,0.5,ideal transition point
+negative_topological,-1.0,1.0,0.5,negative chemical potential inside topological regime

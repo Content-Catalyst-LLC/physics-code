@@ -1,0 +1,7 @@
+case_id,mass,n_grid,notes
+trivial_negative_large,-3.0,201,large negative mass trivial regime
+chern_positive_region,-1.0,201,nontrivial Chern region depending on convention
+chern_negative_region,1.0,201,opposite nontrivial Chern region depending on convention
+trivial_positive_large,3.0,201,large positive mass trivial regime
+near_transition_low,-0.1,201,near gap-closing transition
+near_transition_high,0.1,201,near gap-closing transition

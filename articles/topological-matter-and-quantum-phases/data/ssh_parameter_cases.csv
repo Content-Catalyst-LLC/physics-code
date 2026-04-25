@@ -1,0 +1,6 @@
+case_id,t1,t2,notes
+trivial_strong_intracell,1.0,0.5,intracell hopping larger than intercell hopping
+topological_strong_intercell,1.0,1.5,intercell hopping larger than intracell hopping
+critical_equal_hopping,1.0,1.0,gap-closing transition point
+deep_topological,0.3,1.5,strong topological SSH limit
+deep_trivial,1.5,0.3,strong trivial SSH limit
