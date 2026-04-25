@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+simple harmonic oscillator,baseline oscillator model,omega0,linear restoring force
+damped oscillator,model energy loss,gamma,viscous damping approximation
+driven oscillator,model resonance response,A(omega),sinusoidal steady-state idealization
+standing wave,mode frequencies under boundary conditions,f_n,ideal fixed or open boundaries
+wave equation,propagation of disturbances,y(x,t),one-dimensional linear scaffold
+Fourier decomposition,frequency-domain representation,spectrum,finite sample limitations
+beat frequency,interference of close frequencies,f_beat,requires near-frequency components

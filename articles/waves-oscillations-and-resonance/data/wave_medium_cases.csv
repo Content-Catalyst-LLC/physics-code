@@ -1,0 +1,6 @@
+case_id,wave_type,wave_speed_m_per_s,frequency_hz,wavelength_m,notes
+sound_air_440hz,sound,343,440,,concert A in air approximate
+string_100hz,string,120,100,,illustrative string wave
+water_wave,water,2.5,0.5,,illustrative shallow water-style case
+em_wave_vacuum,electromagnetic,299792458,100000000,,100 MHz electromagnetic wave in vacuum
+seismic_s_wave,seismic,3500,2,,illustrative seismic shear wave

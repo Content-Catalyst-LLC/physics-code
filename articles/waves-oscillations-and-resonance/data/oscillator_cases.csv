@@ -1,0 +1,6 @@
+case_id,mass_kg,spring_constant_n_per_m,damping_coefficient_kg_per_s,driving_force_n,driving_frequency_ratio,notes
+light_damping,1.0,25.0,0.2,1.0,0.95,low damping near resonance
+moderate_damping,1.0,25.0,0.6,1.0,0.95,article base case
+strong_damping,1.0,25.0,1.2,1.0,0.95,stronger damping comparison
+below_resonance,1.0,25.0,0.6,1.0,0.60,driven below natural frequency
+above_resonance,1.0,25.0,0.6,1.0,1.40,driven above natural frequency
