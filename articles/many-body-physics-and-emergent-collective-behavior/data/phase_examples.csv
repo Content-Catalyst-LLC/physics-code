@@ -1,0 +1,8 @@
+phase_name,order_or_structure,key_excitation,example_systems,notes
+ferromagnet,broken spin-rotation or spin-flip symmetry,magnon,magnetic materials,ordered spin phase
+Fermi liquid,Fermi surface with quasiparticles,fermionic quasiparticle,ordinary metals,emergent low-energy quasiparticle theory
+superfluid,macroscopic phase coherence,phonon and vortex,helium and ultracold gases,flows without ordinary viscosity
+superconductor,paired electronic condensate,Bogoliubov quasiparticle,superconducting metals and materials,zero resistance and Meissner effect
+Mott insulator,interaction-driven localization,spin and charge excitations,correlated oxides,Hubbard U blocks metallic behavior
+topological order,long-range entanglement,anyon or edge mode,quantum Hall systems and spin liquids,beyond local symmetry-breaking classification
+spin liquid,entangled disordered spin state,fractionalized excitation,frustrated quantum magnets,no conventional magnetic order

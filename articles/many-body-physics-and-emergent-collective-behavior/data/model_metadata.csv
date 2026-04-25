@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+hilbert_space_growth,complexity scaling,dimension d^N,does not include symmetry reduction
+occupation_statistics,quantum statistics,f(E) and n(E),ideal gas expression
+exact_diagonalization_spin_chain,finite spectra,eigenvalues,limited by exponential scaling
+correlation_function_scaffold,connected correlations,C_ij,teaching scaffold not full measured correlation
+entanglement_entropy_scaffold,subsystem entanglement,S_A,small state-vector example only
+structure_factor_scaffold,momentum-space correlations,S(q),idealized correlation input
+sql_metadata,reproducibility,models phases and sources,requires disciplined updates

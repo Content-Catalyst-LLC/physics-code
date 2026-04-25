@@ -1,0 +1,5 @@
+case_id,local_dimension,n_min,n_max,notes
+spin_half_chain,2,2,40,spin one-half chain dimension d^N
+spin_one_chain,3,2,24,spin one chain dimension d^N
+two_orbital_site,4,2,24,local four-state system dimension d^N
+qubit_register,2,2,60,quantum information register dimension

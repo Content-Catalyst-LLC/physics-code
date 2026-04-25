@@ -1,0 +1,6 @@
+constant_name,value,unit,notes
+boltzmann_constant_ev_k,8.617333262e-5,eV K^-1,Boltzmann constant in electronvolts per kelvin
+boltzmann_constant_si,1.380649e-23,J K^-1,exact SI value
+hbar,1.054571817e-34,J s,reduced Planck constant
+electron_volt,1.602176634e-19,J,exact SI conversion
+spin_half_dimension,2,dimensionless,local Hilbert-space dimension for spin one-half

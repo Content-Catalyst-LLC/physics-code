@@ -1,0 +1,5 @@
+case_id,temperature_k,chemical_potential_ev,energy_min_ev,energy_max_ev,n_points,notes
+low_temperature,50,0.0,-0.5,1.5,201,low-temperature occupation comparison
+room_temperature,300,0.0,-0.5,1.5,201,room-temperature occupation comparison
+high_temperature,1000,0.0,-0.5,1.5,201,high-temperature occupation comparison
+cold_atoms_like,10,0.0,0.001,0.2,200,positive-energy Bose occupation scaffold

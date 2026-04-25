@@ -1,0 +1,7 @@
+model_name,primary_degrees_of_freedom,hamiltonian_terms,typical_phenomena,notes
+Ising model,spins,nearest-neighbor spin coupling and field,magnetism phase transitions criticality,canonical classical and quantum spin model
+Heisenberg model,quantum spins,exchange interaction,magnetism magnons frustration spin liquids,central quantum magnetism model
+Hubbard model,electrons on lattice,hopping and on-site interaction,Mott physics magnetism strong correlation,central correlated-electron model
+Bose-Hubbard model,bosons on lattice,hopping and on-site interaction,superfluid Mott transition,cold atoms and lattice bosons
+BCS model,paired fermions,attractive pairing interaction,superconductivity energy gap Cooper pairing,conventional superconductivity scaffold
+Fermi liquid,fermionic quasiparticles,renormalized quasiparticle interactions,metallic low-energy behavior,effective theory of many metals

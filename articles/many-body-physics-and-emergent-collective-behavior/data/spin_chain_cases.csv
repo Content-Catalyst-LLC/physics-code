@@ -1,0 +1,5 @@
+case_id,n_sites,coupling_j,transverse_field_h,boundary_condition,notes
+ordered_side_6,6,1.0,0.5,periodic,small chain in ordered-side parameter regime
+critical_like_6,6,1.0,1.0,periodic,small chain near transverse-field Ising critical point
+disordered_side_6,6,1.0,1.5,periodic,small chain in disordered-side parameter regime
+critical_like_8,8,1.0,1.0,periodic,larger teaching-scale exact diagonalization case
