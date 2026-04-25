@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+ideal gas law,relate P V n T,R,neglects intermolecular interactions
+isothermal work,compute reversible expansion work,W,requires reversible ideal-gas path
+adiabatic relation,model insulated reversible expansion,gamma,constant heat-capacity ratio assumed
+Carnot efficiency,upper bound for heat engines,eta,ideal reversible reservoirs
+entropy accounting,measure directional process structure,Delta S,requires careful system boundary
+free energy,spontaneity under constraints,F or G,equilibrium thermodynamic criterion
+response functions,material response to perturbation,Cp Cv alpha kappa,requires measured or modeled properties

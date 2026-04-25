@@ -1,0 +1,6 @@
+case_id,amount_mol,temperature_k,initial_volume_m3,final_volume_m3,heat_capacity_ratio,cv_j_per_mol_k,notes
+base_expansion,1.0,300,0.02,0.08,1.4,20.786,article base example
+small_expansion,1.0,300,0.02,0.04,1.4,20.786,smaller volume ratio
+warm_expansion,1.0,400,0.02,0.08,1.4,20.786,higher temperature comparison
+diatomic_like,1.0,300,0.02,0.08,1.4,20.786,diatomic ideal gas approximation
+monatomic_like,1.0,300,0.02,0.08,1.6666667,12.4717,monatomic ideal gas approximation

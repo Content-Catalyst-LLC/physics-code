@@ -1,0 +1,7 @@
+process,fixed_or_controlled_quantities,key_relation,primary_quantity,limitation
+isothermal ideal gas,T,n,PV=nRT and W=nRT ln(V2/V1),work and entropy,ideal gas and reversible path
+adiabatic reversible ideal gas,Q=0,n,PV^gamma=constant,work and temperature change,requires reversibility and constant gamma
+constant pressure heating,P,n,W=P Delta V and Delta H=nCp DeltaT,enthalpy and heat,simple compressible ideal gas
+constant volume heating,V,n,W=0 and Delta U=nCv DeltaT,internal energy and heat,no boundary work
+Carnot cycle,Th,Tc,eta=1-Tc/Th,maximum efficiency,ideal reversible engine
+free energy constant T P,T,P,G=H-TS,spontaneity criterion,equilibrium thermodynamic condition

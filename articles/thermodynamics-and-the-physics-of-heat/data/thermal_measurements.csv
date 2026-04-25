@@ -1,0 +1,6 @@
+sample_id,mass_kg,specific_heat_j_per_kg_k,initial_temperature_k,final_temperature_k,heat_added_j,notes
+water_like_01,0.25,4184,293.15,303.15,10460,illustrative calorimetry example
+water_like_02,0.50,4184,293.15,313.15,41840,illustrative calorimetry example
+aluminum_like_01,0.30,900,293.15,323.15,8100,illustrative calorimetry example
+copper_like_01,0.40,385,293.15,313.15,3080,illustrative calorimetry example
+glass_like_01,0.20,840,293.15,333.15,6720,illustrative calorimetry example
