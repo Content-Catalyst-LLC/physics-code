@@ -1,0 +1,8 @@
+case_id,fluid,velocity_m_per_s,characteristic_length_m,notes
+slow_water_small_pipe,water_20c,0.02,0.01,slow water in small pipe
+moderate_water_pipe,water_20c,0.50,0.05,moderate water pipe flow
+fast_water_pipe,water_20c,2.00,0.10,fast water pipe flow
+viscous_oil_pipe,engine_oil,0.20,0.04,viscous oil pipe flow
+microfluidic_channel,water_20c,0.001,0.0001,microfluidic water channel
+air_duct,air_20c,5.0,0.20,air duct example
+blood_vessel_approx,blood_approx,0.10,0.004,simplified biological flow example

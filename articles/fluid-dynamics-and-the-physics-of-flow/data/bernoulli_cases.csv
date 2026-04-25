@@ -1,0 +1,5 @@
+case_id,fluid,v1_m_per_s,v2_m_per_s,z1_m,z2_m,p1_pa,notes
+horizontal_nozzle,water_20c,1.0,3.0,0.0,0.0,200000,horizontal ideal nozzle
+rising_pipe,water_20c,1.5,1.5,0.0,5.0,250000,same speed rising pipe ideal case
+air_speedup,air_20c,20.0,60.0,0.0,0.0,101325,ideal air speedup comparison
+hydraulic_drop,water_20c,0.8,2.0,10.0,0.0,180000,ideal elevation drop case

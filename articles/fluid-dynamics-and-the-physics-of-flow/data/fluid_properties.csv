@@ -1,0 +1,6 @@
+fluid,density_kg_per_m3,dynamic_viscosity_pa_s,notes
+water_20c,998.2,0.001002,approximate water properties near 20 C
+air_20c,1.204,0.0000181,approximate dry air properties near 20 C
+engine_oil,850,0.20,illustrative viscous oil
+glycerin,1260,1.49,illustrative high-viscosity liquid
+blood_approx,1060,0.0035,simplified approximate whole-blood value for teaching only

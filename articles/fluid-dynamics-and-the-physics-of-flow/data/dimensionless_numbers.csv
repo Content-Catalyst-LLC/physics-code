@@ -1,0 +1,8 @@
+number,symbol,definition,primary_ratio,notes
+Reynolds,Re,rho v L / mu,inertia to viscosity,flow regime and dynamic similarity
+Froude,Fr,v / sqrt(g L),inertia to gravity,free-surface and open-channel flows
+Mach,Ma,v / c,flow speed to sound speed,compressibility and shocks
+Weber,We,rho v^2 L / sigma,inertia to surface tension,droplets bubbles capillary flows
+Strouhal,St,f L / v,unsteady oscillation to advection,vortex shedding and unsteady flow
+Peclet,Pe,v L / D,advection to diffusion,scalar transport
+Prandtl,Pr,nu / alpha,momentum diffusivity to thermal diffusivity,heat-transfer boundary layers

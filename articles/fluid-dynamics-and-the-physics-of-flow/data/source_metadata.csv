@@ -1,0 +1,8 @@
+source,organization,primary_role,url
+MIT Marine Hydrodynamics,MIT OpenCourseWare,fluid fundamentals hydrodynamics vorticity Bernoulli and potential flow,https://ocw.mit.edu/courses/2-20-marine-hydrodynamics-13-021-spring-2005/pages/lecture-notes/
+MIT Engineering Mechanics II,MIT OpenCourseWare,fluid mechanics Bernoulli Reynolds pipe flow drag lift open channel flow,https://ocw.mit.edu/courses/1-060-engineering-mechanics-ii-spring-2006/pages/lecture-notes/
+MIT Numerical Fluid Mechanics,MIT OpenCourseWare,numerical methods CFD finite differences finite volume Navier-Stokes review,https://ocw.mit.edu/courses/2-29-numerical-fluid-mechanics-spring-2015/pages/lecture-notes-and-references/
+MIT Fields Forces and Flows in Biological Systems,MIT OpenCourseWare,viscosity drag Reynolds number Stokes flow biological flow,https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/lecture-notes/
+NIST SI Guide,NIST,SI units for pressure viscosity and derived quantities,https://physics.nist.gov/cuu/pdf/sp811.pdf
+BIPM SI Brochure,BIPM,official SI unit framework,https://www.bipm.org/en/si-brochure-9
+Reynolds 1883,Royal Society,classic experimental transition and Reynolds number paper,https://royalsocietypublishing.org/doi/10.1098/rstl.1883.0029

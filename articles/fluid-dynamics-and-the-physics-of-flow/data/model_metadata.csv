@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+continuum approximation,field description of fluids,rho u p,breaks near molecular scales or rarefied gases
+Bernoulli equation,ideal energy relation,p v z,requires restrictive assumptions
+Reynolds number,regime classification,Re,thresholds depend on geometry and disturbance environment
+Navier-Stokes equation,viscous momentum balance,u and p,difficult to solve in turbulent regimes
+vorticity field,diagnose local rotation,curl u,requires spatially resolved velocity field
+advection-diffusion,transport scalar in flow,c,does not solve full momentum equations
+CFD scaffold,numerical approximation,grid and timestep,not a production solver
