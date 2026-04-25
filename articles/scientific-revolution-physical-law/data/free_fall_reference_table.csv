@@ -1,0 +1,7 @@
+time_s,distance_m,gravity_m_per_s2,notes
+0,0.00000,9.80665,ideal fall from rest
+1,4.90333,9.80665,ideal fall from rest
+2,19.61330,9.80665,ideal fall from rest
+3,44.12993,9.80665,ideal fall from rest
+4,78.45320,9.80665,ideal fall from rest
+5,122.58313,9.80665,ideal fall from rest

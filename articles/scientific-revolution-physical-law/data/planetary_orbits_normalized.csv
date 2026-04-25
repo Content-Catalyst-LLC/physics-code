@@ -1,0 +1,7 @@
+body,semi_major_axis_au,orbital_period_years,notes
+Mercury,0.387,0.241,approximate modern reference value
+Venus,0.723,0.615,approximate modern reference value
+Earth,1.000,1.000,normalized reference
+Mars,1.524,1.881,approximate modern reference value
+Jupiter,5.203,11.862,approximate modern reference value
+Saturn,9.537,29.457,approximate modern reference value
