@@ -1,0 +1,7 @@
+constant,symbol,value,unit,notes
+Newtonian gravitational constant,G,6.67430e-11,m^3 kg^-1 s^-2,CODATA recommended value
+speed of light,c,299792458,m s^-1,exact SI value
+solar mass,M_sun,1.98847e30,kg,standard solar mass approximation used for examples
+earth mass,M_earth,5.972e24,kg,Earth mass approximation
+meter,m,1,m,SI length unit
+second,s,1,s,SI time unit

@@ -1,0 +1,6 @@
+object,mass_kg,notes
+Earth,5.972e24,weak-field planetary example
+Sun,1.98847e30,solar mass example
+Ten solar masses,1.98847e31,stellar black-hole scale example
+Sagittarius A star,8.54e36,approximate central Milky Way black-hole mass scale assuming 4.3 million solar masses
+M87 star,1.2925e40,approximate M87 black-hole mass scale assuming 6.5 billion solar masses

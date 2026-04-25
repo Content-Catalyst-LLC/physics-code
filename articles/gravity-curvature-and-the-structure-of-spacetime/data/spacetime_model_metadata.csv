@@ -1,0 +1,6 @@
+model,primary_use,key_quantity,limitation
+Schwarzschild metric,static spherical non-rotating exterior geometry,Schwarzschild radius,no rotation or charge
+Kerr metric,rotating black-hole geometry,spin parameter,not included in introductory article examples
+FLRW metric,homogeneous isotropic cosmology,scale factor,not a black-hole exterior metric
+weak-field approximation,low-curvature limit,Newtonian potential,breaks down near compact objects
+linearized gravity,small perturbations around flat spacetime,metric perturbation,not full strong-field numerical relativity
