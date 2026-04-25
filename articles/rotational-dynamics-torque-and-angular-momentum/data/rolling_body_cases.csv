@@ -1,0 +1,6 @@
+object,beta,mass_kg,radius_m,height_drop_m,incline_angle_deg,notes
+hoop,1.0,1.0,0.10,1.0,20,thin hoop approximation
+solid_disk,0.5,1.0,0.10,1.0,20,solid disk or cylinder approximation
+solid_sphere,0.4,1.0,0.10,1.0,20,solid sphere approximation
+thin_spherical_shell,0.6666667,1.0,0.10,1.0,20,thin spherical shell approximation
+point_mass_sliding,0.0,1.0,0.10,1.0,20,translation-only comparison

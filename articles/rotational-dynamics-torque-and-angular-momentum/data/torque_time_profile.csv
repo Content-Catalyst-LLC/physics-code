@@ -1,0 +1,11 @@
+time_s,applied_torque_n_m,notes
+0.0,0.0,ramp start
+0.5,0.4,ramp
+1.0,0.8,steady torque begins
+2.0,0.8,steady torque
+3.0,0.8,steady torque
+4.0,0.8,decline begins
+5.0,0.4,decline
+6.0,0.0,torque ends
+7.0,0.0,no applied torque
+8.0,0.0,no applied torque

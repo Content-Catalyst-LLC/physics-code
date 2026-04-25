@@ -1,0 +1,4 @@
+case_id,mass_kg,lever_arm_m,moment_of_inertia_kg_m2,spin_omega_rad_per_s,notes
+small_fast_rotor,0.50,0.08,0.0020,500,illustrative precession case
+medium_rotor,1.00,0.10,0.0060,300,illustrative precession case
+slow_heavy_rotor,2.00,0.12,0.0200,120,illustrative precession case

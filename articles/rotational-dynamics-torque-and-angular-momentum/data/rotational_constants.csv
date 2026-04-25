@@ -1,0 +1,6 @@
+constant,symbol,value,unit,notes
+standard gravity,g,9.80665,m s^-2,standard acceleration due to gravity
+radian,rad,1,dimensionless,SI named derived unit for plane angle
+newton metre,N m,1,kg m^2 s^-2,SI unit expression for torque or moment of force
+joule,J,1,kg m^2 s^-2,SI unit of energy; dimensionally same as N m but different physical meaning
+watt,W,1,kg m^2 s^-3,SI unit of power

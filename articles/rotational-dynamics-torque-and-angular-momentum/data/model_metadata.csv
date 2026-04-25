@@ -1,0 +1,7 @@
+model_or_concept,primary_use,key_quantity,limitation
+fixed-axis rotation,connect torque to angular acceleration,alpha,single principal axis assumed
+moment of inertia,encode mass distribution relative to axis,I,depends on chosen axis
+rolling without slipping,couple translation and rotation,v=R omega,no slip or rolling resistance
+angular momentum conservation,analyze torque-free rotational behavior,L,requires zero external torque about chosen point
+gyroscope precession,estimate precessional response,Omega,simplified steady-precession approximation
+energy partition,compare rolling bodies,K_rot and K_trans,ideal mechanical-energy conservation

@@ -1,0 +1,7 @@
+shape,beta_or_formula,axis,notes
+hoop,beta=1,central symmetry axis,I = M R^2
+solid_disk,beta=1/2,central symmetry axis,I = 1/2 M R^2
+solid_sphere,beta=2/5,diameter,I = 2/5 M R^2
+thin_spherical_shell,beta=2/3,diameter,I = 2/3 M R^2
+thin_rod_center,I=(1/12)ML^2,through center perpendicular to length,rod length L
+thin_rod_end,I=(1/3)ML^2,through one end perpendicular to length,parallel-axis example
