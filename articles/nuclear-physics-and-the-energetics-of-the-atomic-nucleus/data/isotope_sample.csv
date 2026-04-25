@@ -1,0 +1,9 @@
+nuclide,Z,N,A,half_life,decay_mode,notes
+Hydrogen-1,1,0,1,stable,stable,protium
+Helium-4,2,2,4,stable,stable,tightly bound light nucleus
+Carbon-12,6,6,12,stable,stable,carbon isotope
+Carbon-14,6,8,14,5730 years,beta minus,radiocarbon dating isotope
+Cobalt-60,27,33,60,5.27 years,beta minus,gamma calibration and source example
+Uranium-238,92,146,238,4.468 billion years,alpha,long-lived heavy isotope
+Iodine-131,53,78,131,8.02 days,beta minus,medical and environmental relevance
+Technetium-99m,43,56,99,6.01 hours,isomeric transition,medical imaging relevance

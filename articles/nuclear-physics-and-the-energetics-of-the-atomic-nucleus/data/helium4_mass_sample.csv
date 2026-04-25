@@ -1,0 +1,5 @@
+quantity,value_u,notes
+proton_mass,1.007276466621,free proton mass in u
+neutron_mass,1.00866491595,free neutron mass in u
+helium4_nuclear_mass,4.001506179127,approximate helium-4 nuclear mass in u
+u_to_mev,931.49410242,MeV per atomic mass unit

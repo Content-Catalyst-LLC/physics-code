@@ -1,0 +1,6 @@
+model,primary_focus,strength,limitation
+liquid_drop_model,collective binding trends,broad energetics and fission intuition,limited fine-structure detail
+shell_model,single-particle nuclear structure,magic numbers spectra spin-parity patterns,computational complexity for heavy nuclei
+semi_empirical_mass_formula,binding energy systematics,compact trend model,not precision nuclear mass prediction
+collective_model,deformation rotation vibration,connects spectra to collective motion,model-dependent interpretation
+cluster_model,substructures in light nuclei,useful for selected light-nucleus phenomena,not universal

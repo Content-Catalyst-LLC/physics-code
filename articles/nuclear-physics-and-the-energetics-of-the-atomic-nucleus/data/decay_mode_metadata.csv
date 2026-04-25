@@ -1,0 +1,8 @@
+decay_mode,composition_change,interaction_or_process,notes
+alpha,Z decreases by 2 and A decreases by 4,alpha emission,common in heavy nuclei
+beta_minus,Z increases by 1 and N decreases by 1,weak interaction,neutron transforms to proton
+beta_plus,Z decreases by 1 and N increases by 1,weak interaction,proton transforms to neutron with positron emission
+electron_capture,Z decreases by 1 and N increases by 1,weak interaction,orbital electron captured by nucleus
+gamma,no Z or N change,electromagnetic de-excitation,excited nucleus emits photon
+isomeric_transition,no Z or N change,nuclear state transition,metastable nuclear state decays
+spontaneous_fission,heavy nucleus splits,nuclear deformation and tunneling,heavy-nucleus decay process
