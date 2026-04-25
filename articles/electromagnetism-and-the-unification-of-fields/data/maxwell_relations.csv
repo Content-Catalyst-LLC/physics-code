@@ -1,0 +1,7 @@
+relation,equation,role,notes
+Gauss electric,div E = rho / epsilon_0,electric charge as source of electric field,differential form
+Gauss magnetic,div B = 0,no magnetic monopoles in classical Maxwell theory,differential form
+Faraday,curl E = - partial B / partial t,changing magnetic field generates circulating electric field,differential form
+Ampere Maxwell,curl B = mu_0 J + mu_0 epsilon_0 partial E / partial t,current and changing electric field generate magnetic field,differential form
+Lorentz force,F = q(E + v x B),force on moving charge,dynamical law
+Poynting vector,S = E x H,electromagnetic energy flux,field energy transport

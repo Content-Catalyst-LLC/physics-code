@@ -1,0 +1,7 @@
+constant,symbol,value,unit,notes
+speed of light,c,299792458,m s^-1,exact SI value
+elementary charge,e,1.602176634e-19,C,exact SI value
+vacuum electric permittivity,epsilon_0,8.8541878188e-12,F m^-1,2022 CODATA value
+vacuum magnetic permeability,mu_0,1.25663706127e-6,N A^-2,2022 CODATA value
+Coulomb constant,k_e,8.9875517862e9,N m^2 C^-2,derived from 1/(4 pi epsilon_0)
+electron volt,eV,1.602176634e-19,J,energy conversion

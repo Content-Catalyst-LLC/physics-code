@@ -1,0 +1,8 @@
+material,relative_permittivity,relative_permeability,conductivity_s_per_m,notes
+vacuum,1.0,1.0,0,reference medium
+air,1.0006,1.00000037,3e-15,approximate dry air values
+copper,1.0,0.999994,5.96e7,excellent conductor approximation
+silicon,11.7,0.999996,1e-3,strongly depends on doping
+water,78.4,0.999992,5.5e-6,approximate pure water at room temperature
+glass,5.0,1.0,1e-11,representative dielectric approximation
+ferrite,10.0,2000,1e-3,illustrative magnetic material

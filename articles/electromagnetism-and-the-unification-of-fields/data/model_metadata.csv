@@ -1,0 +1,8 @@
+model_or_concept,primary_use,key_quantity,limitation
+point-charge electrostatics,radial field and potential,E and V,singular source idealization
+wire magnetic field,magnetic scaling around long straight current,B,ideal infinite-wire approximation
+dipole superposition,two-charge field geometry,potential and field,numerical softening used near charges
+Laplace equation,charge-free boundary-value problems,V,requires specified boundary conditions
+Poisson equation,field from charge density,V and rho,requires source distribution
+Maxwell wave relation,electromagnetic radiation,c,source-free vacuum simplification
+constitutive relations,field behavior in media,epsilon mu sigma,linear isotropic examples only
