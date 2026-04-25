@@ -1,0 +1,10 @@
+stage,primary_energy_source,dominant_physics,typical_outcome,notes
+Molecular cloud,none,gravity turbulence cooling,collapse or dispersal,star formation begins in cold gas
+Protostar,gravitational contraction,accretion heating disks outflows,pre-main-sequence object,fusion not yet dominant
+Main sequence,hydrogen fusion,hydrostatic equilibrium nuclear burning,long-lived stable star,longest phase for many stars
+Red giant or supergiant,shell burning,core contraction envelope expansion,late-stage giant star,post-main-sequence transformation
+Planetary nebula,exposed hot core and ejected envelope,radiation ionization mass loss,white dwarf formation,common for Sun-like stars
+Core-collapse supernova,gravitational collapse and explosive nucleosynthesis,nuclear physics hydrodynamics neutrinos,neutron star or black hole,massive-star endpoint
+White dwarf,residual thermal energy,electron degeneracy cooling,compact remnant,low-intermediate mass endpoint
+Neutron star,residual cooling and compact matter,neutron-rich dense matter relativity,compact remnant,massive-star endpoint
+Black hole,accretion if fueled,strong gravity event horizon,compact remnant,collapse beyond pressure support

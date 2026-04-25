@@ -1,0 +1,8 @@
+class,temperature_range_k,color_description,example_notes
+O,30000-50000,blue,very hot massive luminous stars
+B,10000-30000,blue-white,hot massive stars
+A,7500-10000,white,intermediate mass hot stars
+F,6000-7500,yellow-white,moderately hot stars
+G,5200-6000,yellow,solar-like stars
+K,3700-5200,orange,cool stars
+M,2400-3700,red,cool red dwarfs and red giants depending on luminosity class

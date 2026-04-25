@@ -1,0 +1,8 @@
+spectral_type,mass_solar,temperature_k,radius_solar,notes
+O5,40.0,40000,18.0,very massive hot luminous main-sequence example
+B0,16.0,28000,7.0,massive blue main-sequence example
+A0,3.3,10000,2.5,intermediate-mass main-sequence example
+F0,1.7,7500,1.4,moderately massive main-sequence example
+G0,1.1,6000,1.1,solar-like main-sequence example
+K0,0.8,5000,0.8,cool lower-main-sequence example
+M0,0.4,3500,0.6,red dwarf-style main-sequence example

@@ -1,0 +1,9 @@
+observable,measurement_method,physical_interpretation,notes
+apparent_brightness,photometry,observed flux received at telescope,requires calibration
+parallax,astrometry,distance estimate,foundation for luminosity calibration
+spectrum,spectroscopy,temperature composition velocity and surface gravity,uses atomic line data
+color_index,multi-band photometry,temperature proxy,affected by extinction
+proper_motion,astrometry,sky-plane motion,combined with distance for velocity
+radial_velocity,doppler spectroscopy,line-of-sight motion,requires wavelength calibration
+luminosity,distance plus brightness,total energy output,depends on distance and extinction correction
+effective_temperature,spectral fitting or color,surface temperature proxy,model-dependent
